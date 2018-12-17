@@ -89,15 +89,15 @@ Polkadot
 [Medium](https://medium.com/statechannels)
 
 ### Article
-[Counterfactual:Generalized State Channels on Ethereum](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6) Introduction and announcement of the project Counterfactual.
+[Counterfactual:Generalized State Channels on Ethereum](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6) :Introduction and announcement of the project Counterfactual.
 
-[Generalized State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44) A state channel concept writen by Liam Horne and Jeff Coleman before the project begins.Here talks about their objects and design purpose.
+[Generalized State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44): A state channel concept writen by Liam Horne and Jeff Coleman before the project begins.Here talks about their objects and design purpose.
 
-[State Channel Applications](https://medium.com/statechannels/state-channel-applications-1f170e7d542e) A discussion about state channel applications and what Counterfactual do:  splits the state channel resolution logic from the application logic. 
+[State Channel Applications](https://medium.com/statechannels/state-channel-applications-1f170e7d542e) :A discussion about state channel applications and what Counterfactual do:  splits the state channel resolution logic from the application logic. 
 
-[Channelising MixEth with the Counterfactual framework](https://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc) Writen by Chris Buckland,researcher from PISA. About a jounary of writing an application(MixEth Protocol) using Counterfactual.
+[Channelising MixEth with the Counterfactual framework](https://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc) :Writen by Chris Buckland,researcher from PISA. About a jounary of writing an application(MixEth Protocol) using Counterfactual.
 
-[State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3) About mechanism of generalized state channels writen by Eric Olszewski.
+[State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3) :About mechanism of generalized state channels writen by Eric Olszewski.
 
 
 ## Celer Network
