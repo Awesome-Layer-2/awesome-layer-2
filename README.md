@@ -3,6 +3,7 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 ## Research Institute
  [Finality Labs](https://github.com/Awesome-Layer-2/Project#finality-labs)
+ 
  [L4](https://github.com/Awesome-Layer-2/Project#l4)
 
 
