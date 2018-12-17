@@ -8,6 +8,9 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 
 ## State Channels
+ 
+ [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual)
+ 
  [Celer Network](https://github.com/Awesome-Layer-2/Project#celer-network)
  
  [Liquidity Network](https://github.com/Awesome-Layer-2/Project#liquidity-network)
@@ -31,8 +34,6 @@ All the layer 2 projects is here, click the project and you will jump to the sec
  [Sprites](https://github.com/Awesome-Layer-2/Project#sprites)
  
  [SpankChain](https://github.com/Awesome-Layer-2/Project#spankchain)
- 
- [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual)
  
  [Parsec](https://github.com/Awesome-Layer-2/Project#parsec)
 
@@ -62,6 +63,41 @@ Polkadot
 
 ## Finality Labs
 ## L4
+ L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
+ 
+ Projects: Counterfactual;Ethglobal;ETHprize;The Stable Fund;
+ 
+ [website](https://l4.ventures/)
+ 
+ [Medium-L4 Blog](https://medium.com/l4-media)
+
+## Counterfactual
+**Intro:** Counterfactual is a object-oriented generalized state channel framework lead by L4.
+### Product/Document
+[Website](https://www.counterfactual.com/)
+
+[Whitepaper](https://l4.ventures/papers/statechannels.pdf)
+
+[Specifications](https://specs.counterfactual.com/)
+
+[Github](https://github.com/counterfactual)
+
+[Medium](https://medium.com/statechannels)
+
+### Article
+[Counterfactual:Generalized State Channels on Ethereum](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
+
+[Generalized State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44)
+
+[State Channel Applications](https://medium.com/statechannels/state-channel-applications-1f170e7d542e)
+
+[Channelising MixEth with the Counterfactual framework](https://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc)
+
+[Introducing the Force-Move Games Framework for State Channels](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f)
+
+[State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3)
+
+
 ## Celer Network
 ## Liquidity Network
 ## Lighting Network
@@ -74,7 +110,11 @@ Polkadot
 ## Machionmy
 ## Sprites
 ## SpankChain
-## Counterfactual
+
+
+
+
+
 ## Parsec
 ## Loom Network
 ## POA Network
