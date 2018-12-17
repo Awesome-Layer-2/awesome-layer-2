@@ -8,13 +8,13 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 
 ## State Channels
- Celer Network
- Liquidity Network
- Lighting Network
- Raiden
- Perun
- Magmo
- FunFair
+ [Celer Network](https://github.com/Awesome-Layer-2/Project#celer-network)
+ [Liquidity Network](https://github.com/Awesome-Layer-2/Project#liquidity-network)
+ [Lighting Network](https://github.com/Awesome-Layer-2/Project#lighting-network)
+ [Raiden Network](https://github.com/Awesome-Layer-2/Project#raiden-network)
+ [Perun](https://github.com/Awesome-Layer-2/Project#perun)
+ [Magmo](https://github.com/Awesome-Layer-2/Project#magmo)
+ [FunFair](https://github.com/Awesome-Layer-2/Project#funfair)
  Pisa
  Connext
  Machionmy
