@@ -99,6 +99,8 @@ Polkadot
 
 [State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3) :About mechanism of generalized state channels writen by Eric Olszewski.
 
+[The Importance of Layer 2 ](https://medium.com/mit-media-lab-digital-currency-initiative/the-importance-of-layer-2-105189f72102) :About mechanism of generalized state channels writen by Neha Narula.
+
 
 ## Celer Network
 ## Liquidity Network
