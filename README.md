@@ -65,7 +65,11 @@ Polkadot
 ## L4
  L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
  
- **Projects:** Counterfactual(https://github.com/Awesome-Layer-2/Project#counterfactual);[ETHglobal](https://ethglobal.co/);[ETHprize](http://ethprize.io/);[The Stable Fund](https://stable.fund/);[ETHER CAPITAL](https://ethcap.co/)
+ **Projects:** [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual);
+ [ETHglobal](https://ethglobal.co/);
+ [ETHprize](http://ethprize.io/);
+ [The Stable Fund](https://stable.fund/);
+ [ETHER CAPITAL](https://ethcap.co/).
  
  [Website](https://l4.ventures/)
  
