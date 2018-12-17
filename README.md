@@ -9,29 +9,47 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 ## State Channels
  [Celer Network](https://github.com/Awesome-Layer-2/Project#celer-network)
+ 
  [Liquidity Network](https://github.com/Awesome-Layer-2/Project#liquidity-network)
+ 
  [Lighting Network](https://github.com/Awesome-Layer-2/Project#lighting-network)
+ 
  [Raiden Network](https://github.com/Awesome-Layer-2/Project#raiden-network)
+ 
  [Perun](https://github.com/Awesome-Layer-2/Project#perun)
+ 
  [Magmo](https://github.com/Awesome-Layer-2/Project#magmo)
+ 
  [FunFair](https://github.com/Awesome-Layer-2/Project#funfair)
- Pisa
- Connext
- Machionmy
- Sprites
- SpankChain
- Counterfactual
- Parsec
+ 
+ [Pisa](https://github.com/Awesome-Layer-2/Project#pisa)
+ 
+ [Connext](https://github.com/Awesome-Layer-2/Project#connext)
+ 
+ [Machionmy](https://github.com/Awesome-Layer-2/Project#machionmy)
+ 
+ [Sprites](https://github.com/Awesome-Layer-2/Project#sprites)
+ 
+ [SpankChain](https://github.com/Awesome-Layer-2/Project#spankchain)
+ 
+ [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual)
+ 
+ [Parsec](https://github.com/Awesome-Layer-2/Project#parsec)
 
 
 
 ## Sidechains
- Loom Network
- POA Network
- Plasma
- SKALE
- OmiseGo
- Livepeer
+ [Loom Network](https://github.com/Awesome-Layer-2/Project#loom-network)
+ 
+ [POA Network](https://github.com/Awesome-Layer-2/Project#poa-network)
+ 
+ [Plasma](https://github.com/Awesome-Layer-2/Project#plasma)
+ 
+ [SKALE](https://github.com/Awesome-Layer-2/Project#skale)
+ 
+ [OmiseGo](https://github.com/Awesome-Layer-2/Project#omisego)
+ 
+ [Livepeer](https://github.com/Awesome-Layer-2/Project#livepeer)
 
  
 
@@ -47,7 +65,7 @@ Polkadot
 ## Celer Network
 ## Liquidity Network
 ## Lighting Network
-## Raiden
+## Raiden Network
 ## Perun
 ## Magmo
 ## FunFair
