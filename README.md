@@ -65,14 +65,14 @@ Polkadot
 ## L4
  L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
  
- Projects: Counterfactual;Ethglobal;ETHprize;The Stable Fund;
+ **Projects:** Counterfactual(https://github.com/Awesome-Layer-2/Project#counterfactual);[ETHglobal](https://ethglobal.co/);[ETHprize](http://ethprize.io/);[The Stable Fund](https://stable.fund/);[ETHER CAPITAL](https://ethcap.co/)
  
- [website](https://l4.ventures/)
+ [Website](https://l4.ventures/)
  
  [Medium-L4 Blog](https://medium.com/l4-media)
 
 ## Counterfactual
-**Intro:** Counterfactual is a object-oriented generalized state channel framework lead by L4.
+**Intro:** Counterfactual is a object-oriented generalized state channel framework lead by [L4](https://l4.ventures/).
 ### Product/Document
 [Website](https://www.counterfactual.com/)
 
@@ -85,17 +85,15 @@ Polkadot
 [Medium](https://medium.com/statechannels)
 
 ### Article
-[Counterfactual:Generalized State Channels on Ethereum](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6)
+[Counterfactual:Generalized State Channels on Ethereum](https://medium.com/statechannels/counterfactual-generalized-state-channels-on-ethereum-d38a36d25fc6) Introduction and announcement of the project Counterfactual.
 
-[Generalized State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44)
+[Generalized State Channels on Ethereum](https://medium.com/l4-media/generalized-state-channels-on-ethereum-de0357f5fb44) A state channel concept writen by Liam Horne and Jeff Coleman before the project begins.Here talks about their objects and design purpose.
 
-[State Channel Applications](https://medium.com/statechannels/state-channel-applications-1f170e7d542e)
+[State Channel Applications](https://medium.com/statechannels/state-channel-applications-1f170e7d542e) A discussion about state channel applications and what Counterfactual do:  splits the state channel resolution logic from the application logic. 
 
-[Channelising MixEth with the Counterfactual framework](https://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc)
+[Channelising MixEth with the Counterfactual framework](https://medium.com/pisa-research/channelising-mixeth-with-the-counterfactual-framework-b53b7f839cc) Writen by Chris Buckland,researcher from PISA. About a jounary of writing an application(MixEth Protocol) using Counterfactual.
 
-[Introducing the Force-Move Games Framework for State Channels](https://medium.com/statechannels/introducing-the-force-move-games-framework-for-state-channels-b32dd953c13f)
-
-[State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3)
+[State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3) About mechanism of generalized state channels writen by Eric Olszewski.
 
 
 ## Celer Network
