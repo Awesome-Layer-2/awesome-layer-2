@@ -6,9 +6,13 @@ For blockchain technology is still at an early stage, we anticipate that there w
 The following is a set of guide lines for you to contributing to Awesome Layer 2. It's just guidelines, not rules. So use your best judgement and feel free to propose changes to this project. And don't forget to leave a comment here ~
 
 ## How can I contribute
-Get a Layer 2 project that not listed here?
-Find a awesome article/video about layer 2?
-Find something wrong with this repo?
+[Get a Layer 2 project that not listed here?](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md#want-to-add-a-project-here-)
+
+[Find a awesome article/video about layer 2?](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md#an-awesome-articlevideo-about-layer-2)
+
+[Find something wrong with this repo?](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md#find-some-problem-with-the-repo)
+
+[How to add things here?](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md#add-things-here)
 
 if you have any questions, leave a comment, create an issue or email me (chenshuang9602@163.com) is okay
 
@@ -31,5 +35,19 @@ it will be better that you leave a brief introduction about the link you find, s
 
 ### Find some problem with the repo?
 You can pull request or just leave me an issue,or just email me(chenshuang9602@163.com)
+
+### Add things here
+Here's how you play Github.
+
+If you want to add something into a file that already exist, 
+
+1.first click the file,for example, `README.md`,find the edit icon and click:![Step 1 click the icon](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/images/Step%201%20.png)
+
+2. You can start editing the text of the file in the in-browser editor. Make sure you follow guidelines above. You can use [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/). 
+
+3. Say why you're proposing the changes, and then click on "Propose file change". ![Step 2 Propose Changes](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/images/Step%202%20.png)
+
+4. Pull requests ! And thanks for contribution!
+
 
 
