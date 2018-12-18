@@ -547,9 +547,9 @@ Polkadot
 
 ## Parsec
 ## Loom Network
-**Intro**: Loom Network’s DPoS sidechains allow for truly scalable blockchain games and DApps with the security of Ethereum mainnet. Like EOS on Ethereum.
+**Intro**: Loom Network is building a fundamental infrastructure platform to help Ethereum scale.It allows developers to run large-scale social apps and games, and is the first Ethereum scaling solution to be live in production.
 
-### Product/Document
+### Basic Information
 [Website](https://loomx.io/)
 
 [Github](https://github.com/loomnetwork)
@@ -565,6 +565,34 @@ Polkadot
 [Twitter](https://twitter.com/loomnetwork)
 
 [FAQ](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
+
+### Product/document
+
+[Loom SDK](https://loomx.io/developers/) 
+
+[CryptoZombies, Ethereum’s most popular DApp coding tutorial](https://cryptozombies.io/)
+
+[Delegatecall](https://delegatecall.com/)
+
+[NO whitepaper because Loom Network is too busy shipping code](https://medium.com/loom-network/loom-network-wheres-your-whitepaper-5c5c9075af72)
+
+### Articles
+
+[Everything You Need to Know About Loom Network, All in One Place (Updated Regularly)](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
+
+[Loom SDK Projects: Axie Infinity — Collect, Breed, and Battle Fantasy Pets on the Blockchain!](https://medium.com/loom-network/loom-sdk-projects-axie-infinity-collect-breed-and-battle-fantasy-pets-on-the-blockchain-22e6fd11b410)
+
+[What is Loom Network (LOOM)? ](https://coinswitch.co/info/loom-network/what-is-loom-network)
+
+### Videos
+
+[Loom Network AMA w/James Duffy](https://www.youtube.com/watch?v=8Evsx9cHvwA)
+
+[Loom Network (LOOM) - Crypto Fundamental Analysis ](https://www.youtube.com/watch?v=RstsGJREaVs)
+
+[WILL LOOM (LOOM) 100X?? IS IT WORTH INVESTING?](https://www.youtube.com/watch?v=rHVugUFz0Ys)
+
+[What is Loom Crypto? - DAppChains for Gaming?](https://www.youtube.com/watch?v=wUd2iS1BkAs)
 
 
 ## POA Network
