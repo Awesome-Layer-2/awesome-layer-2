@@ -1,5 +1,11 @@
-# Project
-All the layer 2 projects
+# Welcome to Awesome Layer 2 !
+if you don't understand layer 2 solutions, check our [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2#intro) here!
+
+Want to know more about layer 2 solutions? Want to find more about state channel,sidechain(including Plasma) and off-chain computation? Check our [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/all%20about%20layer%202.md) here !
+
+And if you want to know about all the layer 2 projects? Check [projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md) here.
+
+If you have any other ideas about the Awesome Layer 2, click here to know how to [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md) and let's work together to embrace the future of Layer 2 !
 
 # INTRO
 Different introductions of layer 2
