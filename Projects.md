@@ -255,6 +255,10 @@ STARK
 
 [Lightning Protocol & The Raiden Network: A Beginner’s Guide](https://blog.springrole.com/lightning-protocol-the-raiden-network-a-beginners-guide-c9d7bc702748)
 
+[Lightning Network enables Unicast Transactions in Bitcoin. Lightning is Bitcoin’s TCP/IP stack.](https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5)：About working principle of Lightning Network.
+
+[Sparky: A Lightning Network in Two Pages of Solidity](https://www.blunderingcode.com/a-lightning-network-in-two-pages-of-solidity/)
+
 ### Videos
 
 [Explain lighting Network](https://www.youtube.com/watch?v=rrr_zPmEiME)
