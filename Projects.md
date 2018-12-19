@@ -54,13 +54,13 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
  
 
-## Cross-chain
+## Off - chain computation
 Cosmos
 
 Polkadot
 
 ***
-
+# Project contents
 ## Finality Labs
 ## L4
  L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
