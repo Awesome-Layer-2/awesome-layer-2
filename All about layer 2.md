@@ -114,8 +114,6 @@ Discussion about:
 
 [Practical Plasma: Gaming by Matthew Campbell (Devcon4)](https://www.youtube.com/watch?v=Epd3aMQtfZQ) :Plasma how to scale games on blockchain.
 
-[Plasma Cash: Towards improved Plasma constructions by Georgios Konstantopoulos (Devcon4)
-
 [Smart Contracts on Plasma - Christian Reitwiessner(Devcon3)](https://www.youtube.com/watch?v=KzyqzEtEc3I) :About building smart contracts on Plasma.
 
 ### Plasma Cash
@@ -125,6 +123,6 @@ Discussion about:
 
 [What is Plasma? Plasma Cash?](https://medium.com/crypto-economics/what-is-plasma-plasma-cash-6fbbef784a):Introduction of Plasma Cash.
 
-(https://www.youtube.com/watch?v=UKigyHGQQmQ) :Introduction of Plasma Cash by Georgios Konstantopoulos from Loom Network
+[Plasma Cash: Towards improved Plasma constructions by Georgios Konstantopoulos (Devcon4)](https://www.youtube.com/watch?v=UKigyHGQQmQ) :Introduction of Plasma Cash by Georgios Konstantopoulos from Loom Network
 
 
