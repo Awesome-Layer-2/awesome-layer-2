@@ -1,13 +1,14 @@
 # Welcome to Awesome Layer 2 !
 
-## quick guide
-if you don't understand layer 2 solutions, check our [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2#intro) here!
+## Quick Guide
+To know what are layer 2 solutions? Please check the [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2#intro) here!
 
-Want to know more about layer 2 solutions? Want to find more about state channel,sidechain(including Plasma) and off-chain computation? Check our [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/all%20about%20layer%202.md) here !
+To know more about layer 2 solutions? Curious about state channel, sidechain(including Plasma) and off-chain computation? 
+Please check the [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/all%20about%20layer%202.md) here !
 
-And if you want to know about all the layer 2 projects? Check [projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md) here.
+Then you must want to check all the layer 2 [projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md) here!
 
-If you have any other ideas about the Awesome Layer 2, click here to know how to [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md) and let's work together to embrace the future of Layer 2 !
+Any other ideas about the Awesome Layer 2, or want to [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md) ? Welcome to join us, let's embrace the future of Layer 2 together!
 
 # INTRO
 Introductions of layer 2 solutions: why we need layer 2 instead of a single blockchain.
