@@ -37,9 +37,11 @@ Here are two main considerations behind off chain scaling solutions:
 **2. Public blockchain should just do what they should, to guarantee public verifibility.**
 
 Nowadays, there are several branches of off chain scaling solutions: 
-:computer:1. [State Channels](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#state-channels)
-:computer:2. [Sidechain (Plasma)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#sidechains)
-:computer:3. [Off chain computation(Truebit,TEE)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#off---chain-computation)
+1. [State Channels](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#state-channels)
+
+2. [Sidechain (Plasma)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#sidechains)
+
+3. [Off chain computation(Truebit,TEE)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#off---chain-computation)
 
 We will introduce them one by one in the future.If you have anything to add here, [know how to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
