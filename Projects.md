@@ -345,6 +345,10 @@ STARK
 
 [A faster “Visa”](https://medium.com/@katerinastro/a-faster-visa-onto-the-blockchain-cfdbc7014811)
 
+### Videos
+
+[Raiden Network: Getting to a production ready payment channel network by Lefteris Karapetsas](https://www.youtube.com/watch?v=v9UQlE2We50)
+
 ## Perun
 
 ### Basic Information
@@ -557,6 +561,9 @@ STARK
 [Introduction to Vynos](https://medium.com/machinomy/explaining-vynos-91f73eeb133a)
 ## Sprites
 ## SpankChain
+
+### Videos
+[SpankChain: Payment Channels in Production by Ameen Soleimani & Arjun Bhupati (Devcon4)](https://www.youtube.com/watch?v=Z3TCTnmd-tQ)
 
 
 ## Parsec
