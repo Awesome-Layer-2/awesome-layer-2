@@ -1,4 +1,6 @@
 # Welcome to Awesome Layer 2 !
+
+## quick guide
 if you don't understand layer 2 solutions, check our [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2#intro) here!
 
 Want to know more about layer 2 solutions? Want to find more about state channel,sidechain(including Plasma) and off-chain computation? Check our [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/all%20about%20layer%202.md) here !
@@ -8,7 +10,7 @@ And if you want to know about all the layer 2 projects? Check [projects](https:/
 If you have any other ideas about the Awesome Layer 2, click here to know how to [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md) and let's work together to embrace the future of Layer 2 !
 
 # INTRO
-Different introductions of layer 2
+Introductions of layer 2 solutions: why we need layer 2 instead of a single blockchain.
 
 ## Introduction to Layer 2 solutions
 
@@ -20,13 +22,13 @@ Now there are three scalability technologies are on their way:
 
 1. Each validator processes more transactions and improve the throughput of the blockchain, by introducing optimized blockchain protocols.（i.e DAG, Hashgraph, Avalance, etc). 
 2. By using sharding technology, each shard process it's own transaction. 
-3. Off chain scaling solutions, which will be the main topic of this repo.
+3. **Layer 2 solutions, which will move most of the work off chian. These will be the main topic of this repo.**
 
 For the first solutions, by optimizing the blockchain protocols, then only computer with better processing power can act as validator. For those home - use computers, they even can't download transaction if the throughput reach 5000 transactions per second. And storage comes to be a problem afterward.
 
 As for Sharding, it's not mature yet. There are different issues concerning 4 level of sharding: from the computation level, network level, storage level and consensus level. These issues are also cross shard problem like [train and hotel problem](https://github.com/ethereum/wiki/wiki/Sharding-FAQs#what-is-the-train-and-hotel-problem), those problems are not solved yet.
 
-Off chain scaling solutions are mature technologies for scaling blockchain, first introduced by Lighting Network in 2016. From our perspective, public blockchain is so far the most efficient way to reach global consensus, but it is also the slowest database as well. Thus we should let blockchain do what they should do, i.e. ensure security and decentralization. Other features like scalability, privacy and so on could be done through off chain scaling solutions, to fit the demand of different industries and applications.
+Off chain scaling solutions are mature technologies for scaling blockchain.It was first introduced by Lighting Network in 2016. From our perspective, **public blockchain is so far the most efficient way to reach global consensus, but it is also the slowest database as well.** Thus we should let blockchain do what they should do, i.e. ensure security and decentralization. Other features like scalability, privacy and so on could be done through off chain scaling solutions, to fit the demand of different industries and applications.
 
 Here are two main considerations behind off chain scaling solutions: 
 
@@ -35,11 +37,11 @@ Here are two main considerations behind off chain scaling solutions:
 **2. Public blockchain should just do what they should, to guarantee public verifibility.**
 
 Nowadays, there are several branches of off chain scaling solutions: 
-1. State Channel 
-2. Sidechain (Plasma) 
-3. Off chain computation
+:computer:1. [State Channels](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#state-channels)
+:computer:2. [Sidechain (Plasma)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#sidechains)
+:computer:3. [Off chain computation(Truebit,TEE)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#off---chain-computation)
 
-We will introduce them one by one in the future.
+We will introduce them one by one in the future.If you have anything to add here, [know how to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
 In this repo, we use “Layer 2” to refer off chain scaling solutions. The public blockchain which guarantees the security and decentralization of the network is called "Layer 1", these names are already reach consensus inside the industry.
 
