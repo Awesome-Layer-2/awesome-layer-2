@@ -55,9 +55,11 @@ All the layer 2 projects is here, click the project and you will jump to the sec
  
 
 ## Off - chain computation
-Cosmos
+Truebit
 
-Polkadot
+TEEX
+
+STARK
 
 ***
 # Project contents
