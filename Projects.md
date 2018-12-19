@@ -2,55 +2,55 @@
 All the layer 2 projects is here, click the project and you will jump to the section of this project,all you need to know about this project will be there.
 
 ## Research Institute
- [Finality Labs](https://github.com/Awesome-Layer-2/Project#finality-labs)
+ [Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#finality-labs)
  
- [L4](https://github.com/Awesome-Layer-2/Project#l4)
+ [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#l4)
 
 
 ## State Channels
  
- [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual)
+ [Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#counterfactual)
  
- [Celer Network](https://github.com/Awesome-Layer-2/Project#celer-network)
+ [Celer Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#celer-network)
  
- [Liquidity Network](https://github.com/Awesome-Layer-2/Project#liquidity-network)
+ [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#liquidity-network)
  
- [Lighting Network](https://github.com/Awesome-Layer-2/Project#lighting-network)
+ [Lighting Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#lighting-network)
  
- [Raiden Network](https://github.com/Awesome-Layer-2/Project#raiden-network)
+ [Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#raiden-network)
  
- [Perun](https://github.com/Awesome-Layer-2/Project#perun)
+ [Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#perun)
  
- [Magmo](https://github.com/Awesome-Layer-2/Project#magmo)
+ [Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#magmo)
  
- [FunFair](https://github.com/Awesome-Layer-2/Project#funfair)
+ [FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#funfair)
  
- [Pisa](https://github.com/Awesome-Layer-2/Project#pisa)
+ [Pisa](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#pisa)
  
- [Connext](https://github.com/Awesome-Layer-2/Project#connext)
+ [Connext](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#connext)
  
- [Machionmy](https://github.com/Awesome-Layer-2/Project#machionmy)
+ [Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#machionmy)
  
- [Sprites](https://github.com/Awesome-Layer-2/Project#sprites)
+ [Sprites](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#sprites)
  
- [SpankChain](https://github.com/Awesome-Layer-2/Project#spankchain)
+ [SpankChain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#spankchain)
  
- [Parsec](https://github.com/Awesome-Layer-2/Project#parsec)
+ [Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#parsec)
 
 
 
 ## Sidechains
- [Loom Network](https://github.com/Awesome-Layer-2/Project#loom-network)
+ [Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#loom-network)
  
- [POA Network](https://github.com/Awesome-Layer-2/Project#poa-network)
+ [POA Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#poa-network)
  
- [Plasma](https://github.com/Awesome-Layer-2/Project#plasma)
+ [Plasma](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#plasma)
  
- [SKALE](https://github.com/Awesome-Layer-2/Project#skale)
+ [SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#skale)
  
- [OmiseGo](https://github.com/Awesome-Layer-2/Project#omisego)
+ [OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#omisego)
  
- [Livepeer](https://github.com/Awesome-Layer-2/Project#livepeer)
+ [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#livepeer)
 
  
 
@@ -273,6 +273,8 @@ STARK
 
 ## Raiden Network
 
+**Intro:** The Raiden Network is an off-chain scaling solution for performing ERC20-compliant token transfers on the Ethereum blockchain. It is Ethereum's version of Bitcoin's Lightning Network, enabling near-instant, low-fee, scalable, and privacy-preserving payments.
+
 ### Basic Information
 
 [Website](https://raiden.network/)
@@ -301,11 +303,17 @@ STARK
 
 [Official Raiden Network FAQ](https://raiden.network/faq.html)
 
+[Alpha Testing Version( Red Eyes )](https://github.com/raiden-network/raiden/milestone/13)
+
+**Product:**[µRaiden](https://raiden.network/micro.html)(micro-Raiden): unidirectional micropayment channels.
+
 [µRaiden Github](https://github.com/raiden-network/microraiden)
 
 [µRaiden Docs](http://microraiden.readthedocs.io/)
 
-[Alpha Testing Version( Red Eyes )](https://github.com/raiden-network/raiden/milestone/13)
+[µRaiden: Unidirectional Off-Chain Payment Framework - Loredana Cirstea](https://www.youtube.com/watch?v=E6CIgJPxgpQ) :introduction of µRaiden,how it works,and a demo of µRaiden.
+
+
 
 ### Articles
 
