@@ -494,6 +494,9 @@ STARK
 
 [Interview with Patrick McCorry](https://www.youtube.com/watch?v=ZdrNylN2iiY)
 
+[Arbitration Outsourcing for State Channels by Patrick McCorry (Devcon4)](https://www.youtube.com/watch?v=Om_zLYC8BvM)
+
+
 ## Connext
 
 ### Basic Information
