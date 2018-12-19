@@ -101,6 +101,9 @@ STARK
 
 [State Channels for Dummies: Part 5(Generalized State Channels / Counterfactual)](https://medium.com/blockchannel/state-channels-for-dummies-part-5-6238f83f8da3) :About mechanism of generalized state channels writen by Eric Olszewski.
 
+[A State Channels Adventure with Counterfactual Rick! (Part 1)](https://medium.com/spankchain/a-state-channels-adventure-with-counterfactual-rick-part-1-ce68e16252ea)
+
+[General State Channels](https://www.youtube.com/watch?v=Ao0tj0HcIcc):Counterfactual Instantiation Code Walkthrough
 
 ## Celer Network
 
@@ -493,6 +496,8 @@ STARK
 [Pisa Protocol: Solving Blockchain's Arbitration Problem w/ Patrick McCorry (Founder)](https://www.youtube.com/watch?v=wPCJk5O4xwg)
 
 [Interview with Patrick McCorry](https://www.youtube.com/watch?v=ZdrNylN2iiY)
+
+[Arbitration Outsourcing for State Channels by Patrick McCorry (Devcon4)](https://www.youtube.com/watch?v=Om_zLYC8BvM)
 
 ## Connext
 
