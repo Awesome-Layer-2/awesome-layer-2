@@ -620,6 +620,10 @@ STARK
 
 [What is Loom Crypto? - DAppChains for Gaming?](https://www.youtube.com/watch?v=wUd2iS1BkAs)
 
+[Matthew Campbell on Bringing Etheruem DApps to Twitter Scale with Loom Netowrk](https://www.youtube.com/watch?v=sb2d2jJ7keI) A talk with CEO of Loom Network about what's Loom Network doing
+
+[LOOM Network - Using the Blockchain to Revolutionize Online Gaming](https://www.youtube.com/watch?v=XjN1rioy-GM)A video comments on Loom Network has more than 2000 views on Youtube,will help to know about Loom Network.
+
 
 ## POA Network
 ## Plasma
