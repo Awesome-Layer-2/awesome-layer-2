@@ -624,6 +624,29 @@ STARK
 ## POA Network
 ## Plasma
 ## SKALE
+
+**Intro:** SKALE empowers Ethereum DApps to run high-speed, low-cost smart contracts in Layer 2.
+### Product/Document
+
+[Website](https://www.skalelabs.com/)
+
+[Medium](https://medium.com/skale)
+
+[Twitter](https://twitter.com/skalelabs)
+
+[Telegram](https://t.me/skalefoundation)  
+
+### Article
+
+[Skale Labs Overview](https://medium.com/@megadeth20/skale-labs-overview-115e75ba48d6)
+
+### Video
+
+[hack.summit("blockchain") 2018 - Jack O'Holleran](https://www.youtube.com/watch?v=R4DVCEKLPWk)
+
+[SFBW18: Scalability: Decentralized or High Performance?](https://www.youtube.com/watch?v=VOO7oYjnA7g)
+
+
 ## OmiseGo
 
 ### Basic Information
