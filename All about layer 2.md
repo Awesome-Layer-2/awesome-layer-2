@@ -40,6 +40,15 @@
 
 [L4 | Generalized State Channels](https://www.youtube.com/watch?v=kZH_ty82jKY) 
 
+### Payment Channels
+[Understanding Payment Channels](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4)
+
+[Payment Channel Contract Walkthrough](https://docs.learnchannels.org/PaymentChannelContracts)
+
+[Payment Channels vs. State Channels](https://docs.learnchannels.org/Paymentchannels)
+
+[P4: Private Periodic Payments Protocol by Liz Steininger (Devcon4)](https://www.youtube.com/watch?v=UqgBNqJ4aYM)
+
 ### Course 1：
 
 [State Channels For Dummies: Part 1](https://medium.com/blockchannel/counterfactual-for-dummies-part-1-8ff164f78540)：Payment Channels
