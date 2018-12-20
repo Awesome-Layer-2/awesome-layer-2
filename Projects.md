@@ -625,6 +625,55 @@ STARK
 ## Plasma
 ## SKALE
 ## OmiseGo
+
+### Basic Information
+[Website](https://omisego.network/)
+
+[Twitter](https://twitter.com/omise_go)
+
+[Medium](https://blog.omisego.network/)
+
+[Reddit](http://reddit.com/r/omise_go)
+
+[Chat Room](https://chat.omisego.network/home)
+
+[Facebook](https://www.facebook.com/OmiseGO/)
+
+[GitHub](https://github.com/omisego)
+
+[Omisego/eWallet Waffle](https://waffle.io/omisego/ewallet)
+
+### Product/document
+
+[Docs](https://omisego.network/token)
+
+[The OMG decentralized Exchange (ODEX)](https://github.com/omisego/elixir-omg/blob/develop/docs/dex_design.md)
+
+[eWallet](https://github.com/omisego/ewallet)
+
+[Tesuji Plasma](https://github.com/omisego/elixir-omg/blob/develop/docs/tesuji_blockchain_design.md)
+
+[First OMG Network Application: Plasma Dog](https://sadyba-plasmadog.hoard.exchange/)
+
+### Articles
+
+[OmiseGO (OMG): Real Problems, Real Solutions — EVERYTHING You Need To Know](https://hackernoon.com/omisego-omg-real-problems-real-solutions-everything-you-need-to-know-8-reasons-to-buy-92551527c0a7) 
+
+[State of the OMG Ecosystem](https://blog.omisego.network/state-of-the-omg-ecosystem-75260c71a053)
+
+[The Definitive OmiseGO Beginner’s Guide](https://medium.freecodecamp.org/the-definitive-omisego-beginners-guide-f95dcdf8635c)
+
+[How OmiseGO will bring Plasma in everyone's daily life](https://blog.goodaudience.com/how-omisego-will-bring-plasma-in-everyones-daily-life-45c9d81a3258)
+
+### Videos
+
+[Demo: eWallet admin panel](https://www.reddit.com/r/omise_go/comments/8wnhjq/demo_ewallet_admin_panel/)
+
+[What is OmiseGo (OMG) in a Nutshell](https://www.youtube.com/watch?v=5UmO5UsKHdk)
+
+[Announcing the Omise GO ewallet platform](https://www.youtube.com/watch?v=neCaG0LoKQ0)
+
+
 ## Livepeer
 
 
