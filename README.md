@@ -4,7 +4,7 @@
 To know what are layer 2 solutions? Please check the [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2#intro) here!
 
 To know more about layer 2 solutions? Curious about state channel, sidechain(including Plasma) and off-chain computation? 
-Please check the [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/all%20about%20layer%202.md) here !
+Please check the [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/All%20about%20layer%202.md) here !
 
 Then you must want to check all the layer 2 [projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md) here!
 
