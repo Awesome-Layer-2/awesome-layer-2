@@ -61,6 +61,8 @@ TEEX
 
 STARK
 
+[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#Oraclize)
+
 ***
 # Project contents
 ## Finality Labs
@@ -76,6 +78,8 @@ STARK
  [Website](https://l4.ventures/)
  
  [Medium-L4 Blog](https://medium.com/l4-media)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## Counterfactual
 **Intro:** Counterfactual is a object-oriented generalized state channel framework lead by [L4](https://l4.ventures/).
@@ -104,6 +108,8 @@ STARK
 [A State Channels Adventure with Counterfactual Rick! (Part 1)](https://medium.com/spankchain/a-state-channels-adventure-with-counterfactual-rick-part-1-ce68e16252ea)
 
 [General State Channels](https://www.youtube.com/watch?v=Ao0tj0HcIcc):Counterfactual Instantiation Code Walkthrough
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## Celer Network
 
@@ -154,6 +160,8 @@ STARK
 
 [Celer Network Interview 3](https://www.youtube.com/watch?v=fcfybxi6W30) 
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Liquidity Network
 
 ### Basic Information
@@ -184,7 +192,7 @@ STARK
 
 [REVIVE Paper](https://eprint.iacr.org/2017/823.pdf)
 
-[NOCUST Paper](https://liquidity.network/NOCUST_Liquidity_Network_Paper.pdf)
+[NOCUST Paper](https://liquidity.network/NOCUST_Liquidity_Network_Paper.pdf):NOCUST is a specification for secure N-party payment hubs introduced by Liquidity Network
 
 ### Articles
 
@@ -210,6 +218,9 @@ STARK
 
 [Wallet Demo](https://www.youtube.com/watch?v=jM9VWRBbqtU)
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
+
 ## Lighting Network
 
 ### Basic Information
@@ -225,6 +236,8 @@ STARK
 [Telegram](https://t.me/LightningNetwork)
 
 [Founder—Joseph Poon Twitter](https://twitter.com/jcp)
+
+[The Bitcoin Lightning Network](https://lightning.network/lightning-network-paper.pdf) :WP of Lighting Network
 
 ### Product/Document
 
@@ -244,6 +257,8 @@ STARK
 
 ### Articles
 
+[What Is Lightning Network And How It Works](https://cointelegraph.com/lightning-network-101/what-is-lightning-network-and-how-it-works)
+
 [Lightning Network is the Future of Bitcoin ](https://medium.com/breez-technology/the-future-of-bitcoin-3187aefe2746) 
 
 [Understanding Lightning Network using an Abacus ](https://medium.com/breez-technology/understanding-lightning-network-using-an-abacus-daad8dc4cf4b)
@@ -262,6 +277,11 @@ STARK
 
 [Sparky: A Lightning Network in Two Pages of Solidity](https://www.blunderingcode.com/a-lightning-network-in-two-pages-of-solidity/)
 
+[Lighting Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e)
+
+[The future of lightning - Elizabeth Stark - Honeybadger 2018](https://view.ly/v/9h3Kv2gS7DIu) :Text draft of a presentation by Elizabeth Stark. About Lighting Network's history and overview.
+
+
 ### Videos
 
 [Explain lighting Network](https://www.youtube.com/watch?v=rrr_zPmEiME)
@@ -277,6 +297,8 @@ STARK
 [Misconceptions about Lightning Network](https://www.youtube.com/watch?v=c4TjfaLgzj4)
 
 [The truth about the lightning network](https://www.youtube.com/watch?v=UYHFrf5ci_g)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## Raiden Network
 
@@ -320,8 +342,6 @@ STARK
 
 [µRaiden: Unidirectional Off-Chain Payment Framework - Loredana Cirstea](https://www.youtube.com/watch?v=E6CIgJPxgpQ) :introduction of µRaiden,how it works,and a demo of µRaiden.
 
-
-
 ### Articles
 
 [What is the Raiden Network?](https://raiden.network/101.html)
@@ -351,6 +371,8 @@ STARK
 ### Videos
 
 [Raiden Network: Getting to a production ready payment channel network by Lefteris Karapetsas](https://www.youtube.com/watch?v=v9UQlE2We50)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## Perun
 
@@ -389,6 +411,8 @@ STARK
 
 [General state channel networks](https://www.youtube.com/watch?v=kBptBui1wYs)
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Magmo
 
 ### Basic Information
@@ -422,6 +446,8 @@ STARK
 ### VideoS
 
 [Force-Move Games - a simple framework for n-party state channel interactions](https://www.youtube.com/watch?v=CeiT4LBurh8&t=141s)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## FunFair
 
@@ -481,6 +507,8 @@ STARK
 
 [FunFair Technologies' Fate Channels: Lessons learned Implementing State Channels (Devcon4)](https://www.youtube.com/watch?v=1ZHCpb-htMk)
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Pisa
 
 ### Basic Information
@@ -501,7 +529,9 @@ STARK
 
 [Interview with Patrick McCorry](https://www.youtube.com/watch?v=ZdrNylN2iiY)
 
-[Arbitration Outsourcing for State Channels by Patrick McCorry (Devcon4)](https://www.youtube.com/watch?v=Om_zLYC8BvM)
+[Arbitration Outsourcing for State Channels by Patrick McCorry (Devcon4)](https://www.youtube.com/watch?v=Om_zLYC8BvM):Introduction of PISA by Patrick McCorry 
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## Connext
 
@@ -539,6 +569,8 @@ STARK
 
 [Episode 42: It's All About the MoneyShot, with Arjun Bhuptani](https://soundcloud.com/blockchannelshow/episode-42-its-all-about-the-moneyshot-with-arjun-bhuptani)
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Machionmy
 
 ### Basic Information
@@ -564,7 +596,15 @@ STARK
 [Code Walkthrough for Generalised State Channels](https://medium.com/machinomy/code-walkthrough-for-generalised-state-channels-f3cdd52d8172)
 
 [Introduction to Vynos](https://medium.com/machinomy/explaining-vynos-91f73eeb133a)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Sprites
+
+[Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812) and here is [the video with the same topic](https://www.youtube.com/watch?v=5Yyut9eFzSM) presentede by Patrick McCorry:A paper in Cornell University Library, in which they propose Sprites. Sprites can reduces the worst-case "collateral cost" that each hop along the route may incur.
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## SpankChain
 
 ### Basic information
@@ -595,8 +635,16 @@ STARK
 
 [What are SPANK and BOOTY?](https://medium.com/spankchain/what-are-spank-and-booty-24822d5ee5c9)
 
+### Video
+[SpankChain: Payment Channels in Production by Ameen Soleimani & Arjun Bhupati (Devcon4)](https://www.youtube.com/watch?v=Z3TCTnmd-tQ)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## Parsec
+
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Loom Network
 **Intro**: Loom Network is building a fundamental infrastructure platform to help Ethereum scale.It allows developers to run large-scale social apps and games, and is the first Ethereum scaling solution to be live in production.
 
@@ -649,9 +697,17 @@ STARK
 
 [LOOM Network - Using the Blockchain to Revolutionize Online Gaming](https://www.youtube.com/watch?v=XjN1rioy-GM)A video comments on Loom Network has more than 2000 views on Youtube,will help to know about Loom Network.
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## POA Network
+
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## Plasma
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 ## SKALE
 
 **Intro:** SKALE empowers Ethereum DApps to run high-speed, low-cost smart contracts in Layer 2.
@@ -675,6 +731,7 @@ STARK
 
 [SFBW18: Scalability: Decentralized or High Performance?](https://www.youtube.com/watch?v=VOO7oYjnA7g)
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 ## OmiseGo
 
@@ -725,11 +782,51 @@ STARK
 
 [Announcing the Omise GO ewallet platform](https://www.youtube.com/watch?v=neCaG0LoKQ0)
 
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
 
 ## Livepeer
 
+**intro:**The Livepeer project is building a platform for video transcoding and live video streaming for the decentralized web. It's Beta version is ready.
 
+### Basic information
+[Website](https://livepeer.org/)
 
+[Medium](*https://medium.com/livepeer-blog):with too many articles so if you want to find more articles you could check here.
 
+[WhitePaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)
+
+[Github](https://github.com/livepeer)
+
+### Product/document
+
+[Documents](https://livepeer.readthedocs.io/en/latest/)
+
+### Articles
+[Introducing Livepeer — A Decentralized Live Video Broadcast Platform and Crypto Token Protocol](https://medium.com/@petkanics/introducing-livepeer-a-decentralized-live-video-broadcast-platform-and-crypto-token-protocol-7eb4b1de47ed)
+
+[Livepeer cryptoeconomics as a case study of active participation in decentralized networks](https://blog.coinfund.io/livepeer-cryptoeconomics-as-a-case-study-of-active-participation-in-decentralized-networks-19a932415e0e)
+
+[Livepeer + Stream = The Perfect Collab](https://blog.streamtoken.net/livepeer-stream-the-perfect-collab-e943f91222b7)
+
+[Token distribution in perspective: Livepeer’s merkle mine not as successful as portrayed](https://medium.com/tokenfoundry/token-distribution-in-perspective-livepeers-merkle-mine-not-as-successful-as-portrayed-1482c6564910)
+
+[Modeling Generalized Mining from a Fund’s Perspective: A Livepeer Case Study](https://medium.com/@visionhill_/modeling-generalized-mining-from-a-funds-perspective-a-livepeer-case-study-54dedac4fdf7)
+
+### Video
+[Token Summit I - Show and Tell - Livepeer with Doug Petkanics](https://www.youtube.com/watch?time_continue=1&v=Vh0VxHlfxVc):Introduction of Livepeer in 7 minutes by co-founder of Livepeer.
+
+[Web3 Goes Live -- Livestreaming Video on the Peer-to-Peer Internet(Devcon 3)](https://www.youtube.com/watch?v=X4sK2hqz5kU):Eric(Co-foudner of Livepeer) gives a 30 minute technical presentation of how to add a live media layer to the web3 stack at Ethereum's Devcon3.(30 minutes)
+
+[NYC Ethereum Cryptocurrency & Consumer Media September 7th 2017](https://www.youtube.com/watch?time_continue=157&v=-40W4BRFGtE):Doug and Eric give a 10 minute presentation at the NYC Ethereum Meetup focused on Media and Cryptocurrency. The whole video is 90 minutes and contains other projects.
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+
+## Oraclize
+
+### Video
+[How to design Auditable Offchain computations via Oraclize](https://www.youtube.com/watch?v=T7g8UcLlNm4)
+
+Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 
