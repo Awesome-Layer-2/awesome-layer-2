@@ -567,8 +567,33 @@ STARK
 ## Sprites
 ## SpankChain
 
-### Videos
-[SpankChain: Payment Channels in Production by Ameen Soleimani & Arjun Bhupati (Devcon4)](https://www.youtube.com/watch?v=Z3TCTnmd-tQ)
+### Basic information
+[Website](https://spankchain.com/)
+
+[Twitter](https://twitter.com/SpankChain)
+
+[Medium](https://medium.com/@SpankChain)
+
+[GitHub](https://github.com/SpankChain)
+
+[Youtube](https://www.youtube.com/channel/UCRonD1SJuucnq9GJCJL_crQ)
+
+[Discord](https://discordapp.com/invite/S42CBSg)
+
+[Instagram](https://www.instagram.com/spankchain/)
+
+[Facebook](https://www.facebook.com/spankchain)
+
+### Product/Document
+
+[Whitepaper](https://spankchain.com/static/SpankChain%20Whitepaper%20(EN).pdf)
+
+[Blog](https://spankchain.com/community/#blog)
+
+### Articles
+[We Got Spanked: What We Know So Far](https://medium.com/spankchain/we-got-spanked-what-we-know-so-far-d5ed3a0f38fe)
+
+[What are SPANK and BOOTY?](https://medium.com/spankchain/what-are-spank-and-booty-24822d5ee5c9)
 
 
 ## Parsec
