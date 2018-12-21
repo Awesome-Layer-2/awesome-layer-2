@@ -40,6 +40,8 @@
 
 [L4 | Generalized State Channels](https://www.youtube.com/watch?v=kZH_ty82jKY) 
 
+[State Channels Q&A](https://medium.com/@eolszewski/state-channels-q-a-fbdb6ba9c131):a brief overview of what State Channels are, the value they provide, and who is working on them in the space.
+
 ### Payment Channels
 [Understanding Payment Channels](https://blog.chainside.net/understanding-payment-channels-4ab018be79d4)
 
@@ -124,6 +126,8 @@ Discussion about:
 [Practical Plasma: Gaming by Matthew Campbell (Devcon4)](https://www.youtube.com/watch?v=Epd3aMQtfZQ) :Plasma how to scale games on blockchain.
 
 [Smart Contracts on Plasma - Christian Reitwiessner(Devcon3)](https://www.youtube.com/watch?v=KzyqzEtEc3I) :About building smart contracts on Plasma.
+
+[Plasma Blockchain Scalability Framework — An Off-chain Scaling Solution for Ethereum Blockchain](https://medium.com/@neoyiukit/plasma-blockchain-scalability-framework-an-off-chain-scaling-solution-for-ethereum-blockchain-7e4ade2fdf86):Plasma's principle and different Plasma prototypes and implementations.
 
 ### Plasma Cash
 [Plasma Cash Simple Spec](https://karl.tech/plasma-cash-simple-spec/):Overview of Plasma, how it solve some problems and some future researches to be done.
