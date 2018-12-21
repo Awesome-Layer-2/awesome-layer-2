@@ -134,4 +134,37 @@ Discussion about:
 
 [Plasma Cash: Towards improved Plasma constructions by Georgios Konstantopoulos (Devcon4)](https://www.youtube.com/watch?v=UKigyHGQQmQ) :Introduction of Plasma Cash by Georgios Konstantopoulos from Loom Network
 
+### Panel Talk
+[Plasma implementers call #1](https://www.youtube.com/watch?v=_DPftmg7zR8):A telephone conference organized by Ethereum Foundation,in which several teams which are working on Plasma. In this eposide, they discussed the purpose of the group, logistics, introductions, technical details, and more!
 
+[Plasma implementers call #2](https://www.youtube.com/watch?v=c_Z8F6FUJxU):In this eposide,they went over a number of common Plasma questions.
+
+[Plasma implementers call #3](https://www.youtube.com/watch?v=JHRXrvdvLd0):In this eposide,they welcomed the Taiwan team--a group of talented engineers who came together to implement the Plasma MVP. also discussed Cosmos' challenges when exploring Plasma, a number of David's designs, and more fun stuff.
+
+[Plasma implementers call #4](https://www.youtube.com/watch?v=IFuxe3vL--k):In this eposide,they discussed some constructions which can be used to scale Cryptokitties! And of course update Plasma progress and have some fun technical discussions--including a new Plasma implementation from voltairelabs.
+
+[Plasma implementers call #5](https://www.youtube.com/watch?v=GSDc_F8xHKo):In this eposide,they discussed Plasma Cash and potential designs and research topics which are worth exploring. :)
+
+[Plasma implementers call #6](https://www.youtube.com/watch?v=k82L4YohW_E):In this eposide,they discussed designs for Plasma Cash with PoS and sharded validation, coin splits, exits which allow for invalid state transitions, a cryptoeconomics course, and more!
+
+[Plasma implementers call #7](https://www.youtube.com/watch?v=uxKcK-4PgLk):In this eposide,they discussed designs which involve sparse merkle trees, bloom filters, and some more splitting! and welcomed the Blockchain @ Berkeley crew who are working on a great Plasma Cash implementation! Yay!
+
+[Plasma implementers call #8](https://www.youtube.com/watch?v=2GgoYSFdTtQ):In this eposide,they discussed a whole bunch of topics, from account abstraction to Plasma XT which uses cryptoeconomic aggregate signatures (CAS) for checkpointing! Tons of fun!
+
+[Plasma implementers call #9](https://www.youtube.com/watch?v=sgr8bHRZUEM):In this eposide,they got to chat about simple splits in Plasma Cash, called Plasma Debit--a critical part of the Plasma Cash spec! Thanks Dan! Plus Vitalik explains instant withdrawals and Plasma with general state transitions :)
+
+[Plasma implementers call #10](https://www.youtube.com/watch?v=M_PtvXrrTko):In this eposide,they got to welcome Loom and Kyber to the call! Plus discussed an update to the Plasma MVP implementation which Kelvin is working on--a research version is pretty much complete! also cover Plasma Cash & debit atomic swaps, as well as Double-batched Merkle log accumulators!
+
+[Plasma implementers call #11](https://www.youtube.com/watch?v=w45PXH0DJa0&t=91s):In this eposide,they celebrated Loom's release of their Plasma Cash implementation, discuss state channels which are opened on and off of Plasma chains, Plasma Debit with Dan, and wrap it up with some experimental zkSNARKs talk! Amazing times!
+
+[Plasma implementers call #12](https://www.youtube.com/watch?v=Wbnr-9euMic):In this eposide,they discussed a wide variety of topics! We start out discussing Plasma educational materials, then move on to BLS signatures, smart contracts in Plasma, light clients, and finally we get SNARKy!
+
+[Plasma implementers call #13](https://www.youtube.com/watch?v=SETRL75eDgE):In this eposide,they started with discussions around nitty gritty Plasma Debit liquidity markets. Then talked about Plasma working groups to get the Plasma research done in person, plus hosting a LIVE Plasma call in devcon!chatted about Plasma XT & then Gnosis gives an awesome presentation on their batch auction Plasma construction. Fun!
+
+[Plasma implementers call #14](https://www.youtube.com/watch?v=lGqNTzluX10):In this eposide,they started out discussing using collateral to reduce user validation load in Plasma Cash. This gets us into triple spends & eventually we talk about the importance and difficulty of analyzing the value of in-flight transactions. Then mentioned some core cryptoeconomic principles around past provability & future accountability.
+
+[Plasma implementers call #15](https://www.youtube.com/watch?v=NQJfUUe2-pA):In this eposide,they dived deep into atomic swaps in both Plasma Debit and Plasma Cash. And discussed different implementation details and greifing opportunities. Next some fun discussions around watch towers!
+
+[Plasma implementers call #16](https://www.youtube.com/watch?v=0ApUUoWYt8U):In this eposide,they started out by discussing Plasma Cashflow which enables fungible assets on Plasma Cash! then talked about Plasma Leap, the first attempt at a general EVM Plasma!
+
+[Plasma implementers call #17](https://www.youtube.com/watch?v=YjTF05SeYxo):Today Vitalik reviewed his solution to the tx history proof size growth in Plasma Cash! It uses RSA accumulators & is super stylish. We are nearly there... Then they discussed Plasma Leap (even more fun!)
