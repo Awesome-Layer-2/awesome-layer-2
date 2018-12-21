@@ -787,12 +787,12 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 ## Livepeer
 
-**intro:**The Livepeer project is building a platform for video transcoding and live video streaming for the decentralized web. It's Beta version is ready.
+**intro:** The Livepeer project is building a platform for video transcoding and live video streaming for the decentralized web. It's Beta version is ready.
 
 ### Basic information
 [Website](https://livepeer.org/)
 
-[Medium](*https://medium.com/livepeer-blog):with too many articles so if you want to find more articles you could check here.
+[Medium](https://medium.com/livepeer-blog):with too many articles so if you want to find more articles you could check here.
 
 [WhitePaper](https://github.com/livepeer/wiki/blob/master/WHITEPAPER.md)
 
