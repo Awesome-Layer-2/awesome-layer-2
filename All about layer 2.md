@@ -172,3 +172,5 @@ Discussion about:
 [Plasma implementers call #16](https://www.youtube.com/watch?v=0ApUUoWYt8U):In this eposide,they started out by discussing Plasma Cashflow which enables fungible assets on Plasma Cash! then talked about Plasma Leap, the first attempt at a general EVM Plasma!
 
 [Plasma implementers call #17](https://www.youtube.com/watch?v=YjTF05SeYxo):Today Vitalik reviewed his solution to the tx history proof size growth in Plasma Cash! It uses RSA accumulators & is super stylish. We are nearly there... Then they discussed Plasma Leap (even more fun!)
+
+[The Plasma Implementers Call](https://slideslive.com/38911962/plasma-implementers-call-live): it's a biweekly call which discusses the cutting edge of Plasma research. This is a great group of 9 people: Joseph Poon, Karl Floersch, Kelvin Fichter, Dan Robinson, David Knott, Xuanji Li, George Konstantopoulos, Alex Vlasov, & Vitalik!
