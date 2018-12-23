@@ -52,6 +52,7 @@ All the layer 2 projects is here, click the project and you will jump to the sec
  
  [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#livepeer)
 
+ [AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#alphawallet)
  
 
 ## Off - chain computation
@@ -830,3 +831,54 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
 
 
+
+## AlphaWallet
+
+**intro:** It's the Wallet Engine For The Web3 World Focusing on Usability, Scalability and Privacy
+
+### Basic Information
+
+[Website](https://alphawallet.com/cn/)
+
+[Medium](https://medium.com/alphawallet)
+
+[WhitePaper]
+
+[Github](https://github.com/alphawallet)
+
+[Youtube](https://www.youtube.com/channel/UCPP12PQeQmQ4_6qXzNvZw-w/featured?view_as=subscriber)
+
+[Telegram](https://t.me/AlphaWalletGroup)
+
+[Reddit](https://www.reddit.com/r/alphawallet)
+
+[Twitter](https://twitter.com/Alpha_Wallet)
+
+[Blog](https://alphawallet.com/blog/)
+
+[Forum/Community](https://community.alphawallet.com/)
+
+### Product/Document
+
+[ERC875 Token Factory](https://x.alphawallet.com/)
+
+[ERC875-Example-Implementation](https://github.com/AlphaWallet/ERC875-Example-Implementation)
+
+[blockchain-attestation](https://github.com/AlphaWallet/blockchain-attestation)
+
+### Articles
+
+[AlphaWallet (Stormbird PTE. LTD.) Joins The Enterprise Ethereum Alliance](https://medium.com/alphawallet/alphawallet-stormbird-pte-ltd-joins-the-enterprise-ethereum-alliance-43e5ff593390): AlphaWallet joined EEA to help improving the technology and support the adoption of Ethereum in the enterprise.
+
+[AlphaWallet released the report of world’s first blockchain tickets experiment for 2018 World Cup](https://alphawallet.com/alphawallet-released-the-report-of-worlds-first-blockchain-tickets-experiment-for-2018-world-cup/):This is the world’s first global top sporting event ticket to use blockchain technology and one of the few blockchain based projects that is handling a real world legitimate use case.
+
+
+### Videos
+
+[AlphaWallet CEO Victor Zhang on AsiaTech](https://www.youtube.com/watch?v=mQoamL17rsY)
+
+[AlphaWallet 中文品牌视频](https://www.youtube.com/watch?v=xBoudL7_R40)
+
+[AlphaWallet - Integration at the consumer end， Blockchain more than just cryptocurrencies](https://www.youtube.com/watch?v=5UGkxBfj5Kc)
+
+[Singapore Fintech Festival 2019](https://www.youtube.com/watch?v=x4ZVFp2l9vE)
