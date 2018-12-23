@@ -129,6 +129,8 @@ Discussion about:
 
 [Plasma Blockchain Scalability Framework — An Off-chain Scaling Solution for Ethereum Blockchain](https://medium.com/@neoyiukit/plasma-blockchain-scalability-framework-an-off-chain-scaling-solution-for-ethereum-blockchain-7e4ade2fdf86):Plasma's principle and different Plasma prototypes and implementations.
 
+[Ethereum Plasma – Ethereum’s New Scaling Strategy and Design Space](https://bitcoinbbs.org/ethereum-plasma-ethereums-new-scaling-strategy-and-design-space/):Joseph Poon, who co-authored the Lightning Network paper, further expanded on and refined the concept with Plasma on Ethereum, resulting in the conditioning of an entire new design space with its own slightly different dynamic.
+
 ### Plasma Cash
 [Plasma Cash Simple Spec](https://karl.tech/plasma-cash-simple-spec/):Overview of Plasma, how it solve some problems and some future researches to be done.
 
