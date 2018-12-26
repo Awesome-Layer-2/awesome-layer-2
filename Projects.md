@@ -84,7 +84,7 @@ STARK
 
 [Set-Payment paper](https://finalitylabs.io/static/media/SetPaymentChannels.8a29d449.pdf) 
 
-[Applied State Channels and Plasma (WIP)](https://docs.google.com/document/d/15LdH-YL3syBHdHlwCfUHou6XFvg5lXBKtrAFp5bG1Pc):This paper will outline our protocols for complex state systems that address common blockchain applications, a state-channels and Plasma approach to payments, exchanges, and games.
+[Applied State Channels and Plasma (WIP)](https://docs.google.com/document/d/15LdH-YL3syBHdHlwCfUHou6XFvg5lXBKtrAFp5bG1Pc) :This paper will outline Finality Labs‘ protocols for complex state systems that address common blockchain applications, a state-channels and Plasma approach to payments, exchanges, and games.
 
 
 ### Articles
