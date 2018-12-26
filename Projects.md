@@ -67,6 +67,43 @@ STARK
 ***
 # Project contents
 ## Finality Labs
+
+**Intro**: Finality Labs is a community of researchers, devs, modders, hackers, and gamers uniting to experiment with and create new applications of cryptographic systems.
+
+### Basic Infor
+[Website](https://finalitylabs.io/)
+
+[Github](https://github.com/finalitylabs)
+
+[Medium](https://medium.com/finality-labs)：It's empty！
+
+[Twitter](https://twitter.com/finalitylabs)
+
+
+### Product/document
+
+[Set-Payment paper](https://finalitylabs.io/static/media/SetPaymentChannels.8a29d449.pdf) 
+
+[Applied State Channels and Plasma (WIP)](https://docs.google.com/document/d/15LdH-YL3syBHdHlwCfUHou6XFvg5lXBKtrAFp5bG1Pc):This paper will outline our protocols for complex state systems that address common blockchain applications, a state-channels and Plasma approach to payments, exchanges, and games.
+
+
+### Articles
+
+[Finality in Blockchain Consensus
+](https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a)
+
+
+### Videos
+
+[The DApp Digest | Nathan Ginnever of Finality Labs](https://www.youtube.com/watch?v=zvn30pX9_rs)
+
+[The DApp Digest | Nathan Ginnever | Founder of BlockEDU and Finality Labs ](https://www.youtube.com/watch?v=awmxEr2B-Z0)
+
+[Finality in Blockchain Consensus - by Alexis Gauba - Mechnism Labs & She256](https://www.youtube.com/watch?v=efyiPhZvqOA)
+
+[The Future of Layer 2 ----Prague Edition](https://www.youtube.com/watch?v=htyJrK9VuCc&t=1144s)
+
+
 ## L4
  L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
  
