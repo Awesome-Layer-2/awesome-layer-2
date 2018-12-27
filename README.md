@@ -1,12 +1,16 @@
 # Welcome to Awesome Layer 2 !
 
 ## Quick Guide
-To know what are layer 2 solutions? Please check the [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2#intro) here!
 
-To know more about layer 2 solutions? Curious about state channel, sidechain(including Plasma) and off-chain computation? 
-Please check the [all about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/All%20about%20layer%202.md) here !
+Blockchain suffers from scalability issues and here comes Layer 2 solutions. To know what are layer 2 solutions? Please check the [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#intro) here!
 
-Then you must want to check all the layer 2 [projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md) here!
+Here are two main parts of this repo.
+
+[The layer 2 projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists) 
+* As you know Layer 2 solutions have adopted as scaling solutions, and more and more teams around the world are working on it. Click here to check their solutions.
+
+[All about layer 2](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/All%20about%20layer%202.md)
+* Besides those projects, there are many articles and videos concerning generalized content about Layer 2, like layer 2 design principles, layer 2 ecomomics and so on. Click here to know more about it.
 
 Any other ideas about the Awesome Layer 2, or want to [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md) ? Welcome to join us, let's embrace the future of Layer 2 together!
 
@@ -38,11 +42,11 @@ Here are two main considerations behind off chain scaling solutions:
 **2. Public blockchain should just do what they should, to guarantee public verifibility.**
 
 Nowadays, there are several branches of off chain scaling solutions: 
-1. [State Channels](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#state-channels)
+1. [State Channels](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#state-channels)
 
-2. [Sidechain (Plasma)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#sidechains)
+2. [Sidechain (Plasma)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sidechains)
 
-3. [Off chain computation(Truebit,TEE)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#off---chain-computation)
+3. [Off chain computation(Truebit,TEE)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#off---chain-computation)
 
 We will introduce them one by one in the future.If you have anything to add here, [know how to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
@@ -56,57 +60,57 @@ This repo is designed for the future of Layer 2.
 All the layer 2 projects is here, click the project and you will jump to the section of this project,all you need to know about this project will be there.
 
 ## Research Institute
- [Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#finality-labs)
+ [Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)
  
- [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#l4)
+ [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)
 
 
 ## State Channels
  
- [Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#counterfactual)
+ [Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#counterfactual)
  
- [Celer Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#celer-network)
+ [Celer Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#celer-network)
  
- [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#liquidity-network)
+ [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)
  
- [Lighting Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#lighting-network)
+ [Lighting Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)
  
- [Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#raiden-network)
+ [Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#raiden-network)
  
- [Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#perun)
+ [Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#perun)
  
- [Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#magmo)
+ [Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#magmo)
  
- [FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#funfair)
+ [FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#funfair)
  
- [Pisa](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#pisa)
+ [Pisa](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#pisa)
  
- [Connext](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#connext)
+ [Connext](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#connext)
  
- [Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#machionmy)
+ [Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#machionmy)
  
- [Sprites](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#sprites)
+ [Sprites](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sprites)
  
- [SpankChain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#spankchain)
+ [SpankChain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#spankchain)
  
- [Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#parsec)
+ [Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#parsec)
 
 
 
 ## Sidechains
- [Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#loom-network)
+ [Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#loom-network)
  
- [POA Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#poa-network)
+ [POA Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#poa-network)
  
- [Plasma](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#plasma)
+ [Plasma](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#plasma)
  
- [SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#skale)
+ [SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#skale)
  
- [OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#omisego)
+ [OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#omisego)
  
- [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#livepeer)
+ [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)
 
- [AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#alphawallet)
+ [AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alphawallet)
  
 
 ## Off - chain computation
@@ -116,7 +120,7 @@ TEEX
 
 STARK
 
-[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#Oraclize)
+[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)
 
 ***
 # Project contents
@@ -171,7 +175,7 @@ STARK
  
  [Medium-L4 Blog](https://medium.com/l4-media)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Counterfactual
 **Intro:** Counterfactual is a object-oriented generalized state channel framework lead by [L4](https://l4.ventures/).
@@ -201,7 +205,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [General State Channels](https://www.youtube.com/watch?v=Ao0tj0HcIcc):Counterfactual Instantiation Code Walkthrough
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Celer Network
 
@@ -252,7 +256,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Celer Network Interview 3](https://www.youtube.com/watch?v=fcfybxi6W30) 
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Liquidity Network
 
@@ -310,7 +314,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Wallet Demo](https://www.youtube.com/watch?v=jM9VWRBbqtU)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 
 ## Lighting Network
@@ -390,7 +394,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [The truth about the lightning network](https://www.youtube.com/watch?v=UYHFrf5ci_g)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Raiden Network
 
@@ -464,7 +468,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Raiden Network: Getting to a production ready payment channel network by Lefteris Karapetsas](https://www.youtube.com/watch?v=v9UQlE2We50)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Perun
 
@@ -503,7 +507,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [General state channel networks](https://www.youtube.com/watch?v=kBptBui1wYs)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Magmo
 
@@ -539,7 +543,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Force-Move Games - a simple framework for n-party state channel interactions](https://www.youtube.com/watch?v=CeiT4LBurh8&t=141s)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## FunFair
 
@@ -599,7 +603,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [FunFair Technologies' Fate Channels: Lessons learned Implementing State Channels (Devcon4)](https://www.youtube.com/watch?v=1ZHCpb-htMk)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Pisa
 
@@ -623,7 +627,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Arbitration Outsourcing for State Channels by Patrick McCorry (Devcon4)](https://www.youtube.com/watch?v=Om_zLYC8BvM):Introduction of PISA by Patrick McCorry 
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Connext
 
@@ -661,7 +665,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Episode 42: It's All About the MoneyShot, with Arjun Bhuptani](https://soundcloud.com/blockchannelshow/episode-42-its-all-about-the-moneyshot-with-arjun-bhuptani)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Machionmy
 
@@ -689,13 +693,13 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Introduction to Vynos](https://medium.com/machinomy/explaining-vynos-91f73eeb133a)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Sprites
 
 [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812) and here is [the video with the same topic](https://www.youtube.com/watch?v=5Yyut9eFzSM) presentede by Patrick McCorry:A paper in Cornell University Library, in which they propose Sprites. Sprites can reduces the worst-case "collateral cost" that each hop along the route may incur.
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## SpankChain
 
@@ -730,12 +734,12 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 ### Video
 [SpankChain: Payment Channels in Production by Ameen Soleimani & Arjun Bhupati (Devcon4)](https://www.youtube.com/watch?v=Z3TCTnmd-tQ)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Parsec
 
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Loom Network
 **Intro**: Loom Network is building a fundamental infrastructure platform to help Ethereum scale.It allows developers to run large-scale social apps and games, and is the first Ethereum scaling solution to be live in production.
@@ -789,16 +793,16 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [LOOM Network - Using the Blockchain to Revolutionize Online Gaming](https://www.youtube.com/watch?v=XjN1rioy-GM)A video comments on Loom Network has more than 2000 views on Youtube,will help to know about Loom Network.
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## POA Network
 
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Plasma
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## SKALE
 
@@ -823,7 +827,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [SFBW18: Scalability: Decentralized or High Performance?](https://www.youtube.com/watch?v=VOO7oYjnA7g)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## OmiseGo
 
@@ -874,7 +878,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Announcing the Omise GO ewallet platform](https://www.youtube.com/watch?v=neCaG0LoKQ0)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 
 ## Livepeer
@@ -912,14 +916,14 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [NYC Ethereum Cryptocurrency & Consumer Media September 7th 2017](https://www.youtube.com/watch?time_continue=157&v=-40W4BRFGtE):Doug and Eric give a 10 minute presentation at the NYC Ethereum Meetup focused on Media and Cryptocurrency. The whole video is 90 minutes and contains other projects.
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 ## Oraclize
 
 ### Video
 [How to design Auditable Offchain computations via Oraclize](https://www.youtube.com/watch?v=T7g8UcLlNm4)
 
-Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/Projects.md#project-lists)
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 
 
@@ -974,6 +978,7 @@ Click [here and back to top](https://github.com/Awesome-Layer-2/Awesome-Layer-2/
 
 [Singapore Fintech Festival 2019](https://www.youtube.com/watch?v=x4ZVFp2l9vE)
 
+Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
 
 # All About Layer 2 
 ## General contents of Layer 2
