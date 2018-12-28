@@ -970,7 +970,7 @@ Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Lay
 
 [Examples of People Using Crypto For Good](https://www.forbes.com/sites/devinthorpe/2018/03/18/examples-of-people-using-crypto-for-good/#23608aa34be2)
 
-### Vedios
+### Videos
 
 [Austin Ethereum Meetup: Transmute Industries Framework Demo - Blockchain Development Simplified](https://www.youtube.com/watch?v=S_pH3Qcc3QU)
 
