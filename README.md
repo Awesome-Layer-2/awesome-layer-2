@@ -125,6 +125,9 @@ STARK
 
 [Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)
 
+
+[Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)
+
 ***
 # Project contents
 ## Finality Labs
@@ -927,6 +930,51 @@ Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Lay
 [How to design Auditable Offchain computations via Oraclize](https://www.youtube.com/watch?v=T7g8UcLlNm4)
 
 Click [here and back to the list](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists)
+
+
+## Transmute
+
+**Intro**： configures decentralized apps to work seamlessly with both public and private clouds. Use your existing development resources to deploy superior apps in minutes.
+
+### Basic Information：
+
+[website](https://www.transmute.industries/)
+
+[GitHub](https://github.com/transmute-industries)
+
+[Blog](https://medium.com/@Transmute)
+
+[Twitter](https://twitter.com/transmutenews)
+
+[Telegram](https://t.me/joinchat/ICVkOE_WTmzbGmtdl-5d8A)
+
+
+### Product/Document:
+
+
+[Whitepaper](https://www.transmute.industries/whitepaper.pdf)
+
+[Demo](https://dashboard.transmute.network/)
+
+### Article:
+
+[Inaugural Startup Class Collaborates on Enterprise Growth and Cloud Innovation at Oracle’s First U.S. Startup Hub](https://www.oracle.com/corporate/pressrelease/inaugural-austin-startup-class-101118.html)
+
+[Why Transmute Framwork](https://steemit.com/dapp/@sansteem/transmute-framework)
+
+[Announcing the Techstars Austin Class of 2018](https://www.techstars.com/content/accelerators/announcing-techstars-austin-class-2018/)
+
+[SXSW 2018: 10 Crypto & Blockchain Takeaways](https://hackernoon.com/sxsw-2018-10-crypto-blockchain-takeaways-d9c397b887e4)
+
+[Women In Bitcoin: Combatting The ‘Blockchain Bro’ Stereotype](https://bitcoinira.com/articles/women-in-bitcoin-combatting-the-blockchain-bro-stereotype)
+
+[Examples of People Using Crypto For Good](https://www.forbes.com/sites/devinthorpe/2018/03/18/examples-of-people-using-crypto-for-good/#23608aa34be2)
+
+### Vedios
+
+[Austin Ethereum Meetup: Transmute Industries Framework Demo - Blockchain Development Simplified](https://www.youtube.com/watch?v=S_pH3Qcc3QU)
+
+[Full Stack dApp Development with the Transmute Framework](https://www.youtube.com/watch?v=wO1dj-c89AI)
 
 
 
