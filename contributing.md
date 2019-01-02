@@ -1,5 +1,5 @@
 
-thanks for taking your time to contribute ! :v::v:
+Thanks for taking your time to contribute ! :v::v:
 
 For blockchain technology is still at an early stage, we anticipate that there will be more and more layer 2 solutions (if you want to know more about layer 2 solutions, click here )solutions coming out in the future.
 
