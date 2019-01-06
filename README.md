@@ -1,21 +1,13 @@
 # Welcome to Awesome Layer 2 !
 
 ## Quick Guide
+### [Introduction to Layer 2 solutions](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#intro) 
+### [The Layer 2 projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists) 
+* [state channel](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#state-channels)
+* [sidechain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sidechains)
+* [off chain computation](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#off---chain-computation)
+### [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
-Blockchain suffers from scalability issues and here comes Layer 2 solutions. To know what are layer 2 solutions? Please check the [intro](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#intro) here!
-
-Here are two main parts of this repo.
-
-[The layer 2 projects](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#project-lists) 
-* As you know Layer 2 solutions have adopted as scaling solutions, and more and more teams around the world are working on it. Click here to check their solutions.
-* about [state channel](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#state-channels)
-* about [sidechain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sidechains)
-* about [off chain computation](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#off---chain-computation)
-
-[All about layer 2]（https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#all-about-layer-2）
-* Besides those projects, there are many articles and videos concerning generalized content about Layer 2, like layer 2 design principles, layer 2 ecomomics and so on. Click here to know more about it.
-
-Any other ideas about the Awesome Layer 2, or want to [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md) ? Welcome to join us, let's embrace the future of Layer 2 together!
 
 # INTRO
 Introductions of layer 2 solutions: why we need layer 2 instead of a single blockchain.
