@@ -62,7 +62,7 @@ All the layer 2 projects is here, click the project and you will jump to the sec
  * [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)
 
 
-<h2 id="11“>State Channels</h2>
+<h2 id="11"> State Channels</h2>
  
 * [Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#counterfactual)
  
