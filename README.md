@@ -1,6 +1,6 @@
 # Awesome Layer 2  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-<h2 id="1"> Quick Guide</h2>
+<h2 id="1"> Content</h2>
 
 ### [Introduction to Layer 2 solutions](#2) 
 
@@ -19,11 +19,20 @@
 
 <h1 id="2">INTRO</h1>
 
-Introductions of layer 2 solutions: why we need layer 2 instead of a single blockchain.
+Since in 2017 there's lots of hype in blockchain industry. Frankly speaking Ethereum and Bitcoin do have scaling problems :they do bring decentralization and transparent but transactions are really slow and expensive. 
+
+Many projects seek to solve this problem, claiming that they will have millions of TPS(transactions per second). But in the early 2019 we still can not see any those projects come real.
+
+This is a fundamental problem of blockchain; it can't scale( if permissionless blockchain should have decentralization and security,I will explain it here). So more people are thinking about adding another layer on permissionless blockchain, that's what we call layer 2 solutions.
+
+Layer 2 solutions are not a single project, it contains several type of solutions: some to scale payment, some are used for scaling smart contract, and some to do computation off chain. But one feature they are the same: move most of the work off chain and use permissionless blockchain as anchors to ensure security.
+
+Many people are working on those projects, most of them do not have any ICO, they just believe layered design is the future of blockchain. So do I. 
+
 
 ## Introduction to Layer 2 solutions
 
-Blockchain technology is facing a trilemma, i.e. from decentralization, security and scalability. Only two of the three features could be obtained in a single blockchain. **At the heart of the scaling problem is a tradeoff between "large user-base " and "large set of validators".**
+Blockchain(here "blockchain" refers to permissionless blockchain or public blockchain) technology is facing a trilemma, i.e. from decentralization, security and scalability, Only two of the three features could be obtained in a single blockchain. **At the heart of the scaling problem is a tradeoff between "large user-base " and "large set of validators".**
 
 Public blockchains need all the validators reach consensus, to ensure decentralization and security, which leads to the problem: the throughput of the whole blockchain is equal to a single validator. Fundamentally, blockchains just don’t scale.
 
