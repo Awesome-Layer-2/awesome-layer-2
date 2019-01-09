@@ -1,16 +1,24 @@
-<h1 id="1">Welcome to Awesome Layer 2 !</h1> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Awesome Layer 2  [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-## Quick Guide
+<h2 id="1"> Quick Guide</h2>
+
 ### [Introduction to Layer 2 solutions](#2) 
+
 ### [All about Layer 2:General analysis about Layer 2 solutions](#5)
+
 ### [The Layer 2 projects](#3) 
+
 * [state channel](#11)
+
 * [sidechain](#12)
+
 * [off chain computation](#13)
+
 ### [contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
 
 <h1 id="2">INTRO</h1>
+
 Introductions of layer 2 solutions: why we need layer 2 instead of a single blockchain.
 
 ## Introduction to Layer 2 solutions
@@ -22,7 +30,9 @@ Public blockchains need all the validators reach consensus, to ensure decentrali
 Now there are three scalability technologies are on their way:
 
 1. Each validator processes more transactions and improve the throughput of the blockchain, by introducing optimized blockchain protocols.（i.e DAG, Hashgraph, Avalance, etc). 
+
 2. By using sharding technology, each shard process it's own transaction. 
+
 3. **Layer 2 solutions, which will move most of the work off chian. These will be the main topic of this repo.**
 
 For the first solutions, by optimizing the blockchain protocols, then only computer with better processing power can act as validator. For those home - use computers, they even can't download transaction if the throughput reach 5000 transactions per second. And storage comes to be a problem afterward.
