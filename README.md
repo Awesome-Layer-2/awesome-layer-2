@@ -1,4 +1,4 @@
-<h1 id="1">Welcome to Awesome Layer 2 !</h1>
+<h1 id="1">Welcome to Awesome Layer 2 !</h1> [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 ## Quick Guide
 ### [Introduction to Layer 2 solutions](#2) 
