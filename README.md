@@ -19,7 +19,7 @@
 
 <h1 id="2">INTRO</h1>
 
-Since in 2017 there's lots of hype in blockchain industry. Frankly speaking Ethereum and Bitcoin do have scaling problems :they do bring decentralization and transparent but transactions are really slow and expensive. 
+Since in 2017 there's lots of hype in blockchain industry. Frankly speaking Ethereum and Bitcoin do have scaling problems: they do bring decentralization and transparent but transactions are really slow and expensive. 
 
 Many projects seek to solve this problem, claiming that they will have millions of TPS(transactions per second). But in the early 2019 we still can not see any those projects come real.
 
