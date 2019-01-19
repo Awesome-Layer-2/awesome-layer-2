@@ -665,10 +665,13 @@ Click [here and back to the list](#4)
 Click [here and back to the list](#4)
 
 ## Connext
+**Intro:** Connext is free, open source p2p micropayment infrastructure. Connext hubs are mainnet-ready and being used in production.
 
 ### Basic Information
 
 * [Website](https://connext.network/)
+
+* [Github] (https://github.com/ConnextProject)
 
 * [Discord](https://discordapp.com/invite/yKkzZZm)
 
@@ -680,19 +683,26 @@ Click [here and back to the list](#4)
 
 ### Product/Document
 
-* [Docs](https://docs.connext.network/)
+* [Docs](https://github.com/ConnextProject/docs/wiki)
+
+* [Contracts + Specification](https://github.com/ConnextProject/contracts)
+
+* [Hub implementation](https://github.com/ConnextProject/indra)
+
+* [Client](http://npmjs.com/package/connext)
 
 ### Articles
 
-* [Transparency Report](https://medium.com/connext/transparency-report-64c9e58e0a19)
+* [Connext Vision](https://medium.com/connext/what-we-become-66605b3e22ff)
 
-* [Introducing Connext](https://medium.com/@arjunbhuptani/introducing-connext-ef07d4040d03)
+* [Mainnet release announcement](https://medium.com/connext/our-first-hub-is-live-on-mainnet-b5660486635e)
 
-* [What’s Next for Connext?](https://medium.com/connext/what-we-become-66605b3e22ff)
+* [The case for Ethereum scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f)
 
-* [The Connext Vault](https://medium.com/@arjunbhuptani/the-connext-vault-4ee49df81131)
 
 ### Videos
+
+* [State channels are coming](https://www.youtube.com/watch?v=SRUQBYRiZ8s)
 
 * [Scaling Ethereum to Millions Of Users With State Channels - Connext Co-Founder Arjun Bhuptani](https://www.youtube.com/watch?v=e5Ag0dA3z9E)
 
