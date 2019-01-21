@@ -25,7 +25,9 @@
 |[AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alphawallet)|[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)|STARK|TEEX|
 |[Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)|Truebit|
 
-
+|[Research Institute](#14)||||
+|--------|--------|--------|--------|
+|[Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)|[L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)|
 
 ### [How to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
@@ -70,11 +72,11 @@ Here are two main considerations behind off chain scaling solutions:
 **2. Public blockchain should just do what they should, to guarantee public verifibility.**
 
 Nowadays, there are several branches of off chain scaling solutions: 
-1. [State Channels](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#state-channels)
+1. [State Channels](#11)
 
-2. [Sidechain (Plasma)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sidechains)
+2. [Sidechain (Plasma)](#12)
 
-3. [Off chain computation(Truebit,TEE)](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#off---chain-computation)
+3. [Off chain computation(Truebit,TEE)](#13)
 
 We will introduce them one by one in the future.If you have anything to add here, [know how to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
@@ -88,72 +90,7 @@ This repo is designed for the future of Layer 2.
 
 All the layer 2 projects is here, click the project and you will jump to the section of this project,all you need to know about this project will be there.
 
-## Research Institute
-- [Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)
- 
-- [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)
-
 <h1 id="4">Project contents</h1>
-
-## Finality Labs
-
-**Intro**: Finality Labs is a community of researchers, devs, modders, hackers, and gamers uniting to experiment with and create new applications of cryptographic systems.
-
-### Basic Infor
-- [Website](https://finalitylabs.io/)
-
-- [Github](https://github.com/finalitylabs)
-
-- [Medium](https://medium.com/finality-labs)：It's empty！
-
-- [Twitter](https://twitter.com/finalitylabs)
-
-
-### Product/document
-
-- [Set-Payment paper](https://finalitylabs.io/static/media/SetPaymentChannels.8a29d449.pdf) 
-
-- [Applied State Channels and Plasma (WIP)](https://docs.google.com/document/d/15LdH-YL3syBHdHlwCfUHou6XFvg5lXBKtrAFp5bG1Pc) :This paper will outline Finality Labs‘ protocols for complex state systems that address common blockchain applications, a state-channels and Plasma approach to payments, exchanges, and games.
-
-
-### Articles
-
-- [Finality in Blockchain Consensus
-](https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a)
-
-
-### Videos
-
-- [The DApp Digest | Nathan Ginnever of Finality Labs](https://www.youtube.com/watch?v=zvn30pX9_rs)
-
-- [The DApp Digest | Nathan Ginnever | Founder of BlockEDU and Finality Labs ](https://www.youtube.com/watch?v=awmxEr2B-Z0)
-
-- [Finality in Blockchain Consensus - by Alexis Gauba - Mechnism Labs & She256](https://www.youtube.com/watch?v=efyiPhZvqOA)
-
-- [The Future of Layer 2 ----Prague Edition](https://www.youtube.com/watch?v=htyJrK9VuCc&t=1144s)
-
-Click [here and back to the list](#4)
-
-## L4
- L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
- 
- **Projects:**
- 
-- [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual);
-
-- [ETHglobal](https://ethglobal.co/);
-
-- [ETHprize](http://ethprize.io/);
-
-- [The Stable Fund](https://stable.fund/);
-
-- [ETHER CAPITAL](https://ethcap.co/).
- 
-- [Website](https://l4.ventures/)
- 
-- [Medium-L4 Blog](https://medium.com/l4-media)
-
-Click [here and back to the list](#4)
 
 <h1 id="11"> State Channels</h1>
 
@@ -1057,6 +994,66 @@ Click [here and back to the list](#4)
 - [Austin Ethereum Meetup: Transmute Industries Framework Demo - Blockchain Development Simplified](https://www.youtube.com/watch?v=S_pH3Qcc3QU)
 
 - [Full Stack dApp Development with the Transmute Framework](https://www.youtube.com/watch?v=wO1dj-c89AI)
+
+Click [here and back to the list](#4)
+
+<h1 id="14">Research Institute</h1>
+## Finality Labs
+
+**Intro**: Finality Labs is a community of researchers, devs, modders, hackers, and gamers uniting to experiment with and create new applications of cryptographic systems.
+
+### Basic Infor
+- [Website](https://finalitylabs.io/)
+
+- [Github](https://github.com/finalitylabs)
+
+- [Medium](https://medium.com/finality-labs)：It's empty！
+
+- [Twitter](https://twitter.com/finalitylabs)
+
+
+### Product/document
+
+- [Set-Payment paper](https://finalitylabs.io/static/media/SetPaymentChannels.8a29d449.pdf) 
+
+- [Applied State Channels and Plasma (WIP)](https://docs.google.com/document/d/15LdH-YL3syBHdHlwCfUHou6XFvg5lXBKtrAFp5bG1Pc) :This paper will outline Finality Labs‘ protocols for complex state systems that address common blockchain applications, a state-channels and Plasma approach to payments, exchanges, and games.
+
+
+### Articles
+
+- [Finality in Blockchain Consensus](https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a)
+
+
+### Videos
+
+- [The DApp Digest | Nathan Ginnever of Finality Labs](https://www.youtube.com/watch?v=zvn30pX9_rs)
+
+- [The DApp Digest | Nathan Ginnever | Founder of BlockEDU and Finality Labs ](https://www.youtube.com/watch?v=awmxEr2B-Z0)
+
+- [Finality in Blockchain Consensus - by Alexis Gauba - Mechnism Labs & She256](https://www.youtube.com/watch?v=efyiPhZvqOA)
+
+- [The Future of Layer 2 ----Prague Edition](https://www.youtube.com/watch?v=htyJrK9VuCc&t=1144s)
+
+Click [here and back to the list](#4)
+
+## L4
+ L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
+ 
+ **Projects:**
+ 
+- [Counterfactual](https://github.com/Awesome-Layer-2/Project#counterfactual);
+
+- [ETHglobal](https://ethglobal.co/);
+
+- [ETHprize](http://ethprize.io/);
+
+- [The Stable Fund](https://stable.fund/);
+
+- [ETHER CAPITAL](https://ethcap.co/).
+ 
+- [Website](https://l4.ventures/)
+ 
+- [Medium-L4 Blog](https://medium.com/l4-media)
 
 Click [here and back to the list](#4)
 
