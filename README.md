@@ -145,7 +145,7 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 - [Celer Network Interview 3](https://www.youtube.com/watch?v=fcfybxi6W30) 
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Connext
 **Intro:** Connext is free, open source p2p micropayment infrastructure. Connext hubs are mainnet-ready and being used in production.
@@ -227,7 +227,7 @@ Click [here and back to the list](#1)
 
 - [General State Channels](https://www.youtube.com/watch?v=Ao0tj0HcIcc):Counterfactual Instantiation Code Walkthrough
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## FunFair
 
@@ -287,7 +287,7 @@ Click [here and back to the list](#4)
 
 - [FunFair Technologies' Fate Channels: Lessons learned Implementing State Channels (Devcon4)](https://www.youtube.com/watch?v=1ZHCpb-htMk)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Lighting Network
 
@@ -366,7 +366,7 @@ Click [here and back to the list](#4)
 
 - [The truth about the lightning network](https://www.youtube.com/watch?v=UYHFrf5ci_g)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Liquidity Network
 
@@ -424,7 +424,7 @@ Click [here and back to the list](#4)
 
 - [Wallet Demo](https://www.youtube.com/watch?v=jM9VWRBbqtU)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Machionmy
 
@@ -452,7 +452,7 @@ Click [here and back to the list](#4)
 
 - [Introduction to Vynos](https://medium.com/machinomy/explaining-vynos-91f73eeb133a)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Magmo
 
@@ -486,11 +486,11 @@ Click [here and back to the list](#4)
 
 - [Force-Move Games - a simple framework for n-party state channel interactions](https://www.youtube.com/watch?v=CeiT4LBurh8&t=141s)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Parsec
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Perun
 
@@ -529,7 +529,7 @@ Click [here and back to the list](#4)
 
 - [General state channel networks](https://www.youtube.com/watch?v=kBptBui1wYs)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Pisa
 
@@ -553,7 +553,7 @@ Click [here and back to the list](#4)
 
 - [Arbitration Outsourcing for State Channels by Patrick McCorry (Devcon4)](https://www.youtube.com/watch?v=Om_zLYC8BvM):Introduction of PISA by Patrick McCorry 
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Raiden Network
 
@@ -629,7 +629,7 @@ Click [here and back to the list](#4)
 
 - [Raiden Network: Getting to a production ready payment channel network by Lefteris Karapetsas](https://www.youtube.com/watch?v=v9UQlE2We50)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## SpankChain
 
@@ -664,13 +664,13 @@ Click [here and back to the list](#4)
 ### Video
 - [SpankChain: Payment Channels in Production by Ameen Soleimani & Arjun Bhupati (Devcon4)](https://www.youtube.com/watch?v=Z3TCTnmd-tQ)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Sprites
 
 - [Sprites and State Channels: Payment Networks that Go Faster than Lightning](https://arxiv.org/abs/1702.05812) and here is [the video with the same topic](https://www.youtube.com/watch?v=5Yyut9eFzSM) presentede by Patrick McCorry:A paper in Cornell University Library, in which they propose Sprites. Sprites can reduces the worst-case "collateral cost" that each hop along the route may incur.
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Trinity
 
@@ -741,7 +741,7 @@ Trinity is a universal off-chain scaling solution, which aims to achieve real-ti
 
 - [NYC Ethereum Cryptocurrency & Consumer Media September 7th 2017](https://www.youtube.com/watch?time_continue=157&v=-40W4BRFGtE):Doug and Eric give a 10 minute presentation at the NYC Ethereum Meetup focused on Media and Cryptocurrency. The whole video is 90 minutes and contains other projects.
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## Loom Network
 **Intro**: Loom Network is building a fundamental infrastructure platform to help Ethereum scale.It allows developers to run large-scale social apps and games, and is the first Ethereum scaling solution to be live in production.
@@ -796,7 +796,7 @@ Click [here and back to the list](#4)
 
 - [LOOM Network - Using the Blockchain to Revolutionize Online Gaming](https://www.youtube.com/watch?v=XjN1rioy-GM)A video comments on Loom Network has more than 2000 views on Youtube,will help to know about Loom Network.
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## OmiseGo
 
@@ -848,16 +848,16 @@ Click [here and back to the list](#4)
 
 - [Announcing the Omise GO ewallet platform](https://www.youtube.com/watch?v=neCaG0LoKQ0)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 
 ## Plasma
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## POA Network
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## SKALE
 
@@ -884,7 +884,7 @@ Click [here and back to the list](#4)
 - [SFBW18: Scalability: Decentralized or High Performance?](https://www.youtube.com/watch?v=VOO7oYjnA7g)
 
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 <h1 id="13">Off - chain computation</h1>
 
@@ -939,7 +939,7 @@ Click [here and back to the list](#4)
 
 - [Singapore Fintech Festival 2019](https://www.youtube.com/watch?v=x4ZVFp2l9vE)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 
 ## Oraclize
@@ -948,7 +948,7 @@ Click [here and back to the list](#4)
 
 - [How to design Auditable Offchain computations via Oraclize](https://www.youtube.com/watch?v=T7g8UcLlNm4)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 
 ## Transmute
@@ -995,7 +995,7 @@ Click [here and back to the list](#4)
 
 - [Full Stack dApp Development with the Transmute Framework](https://www.youtube.com/watch?v=wO1dj-c89AI)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 <h1 id="14">Research Institute</h1>
 ## Finality Labs
@@ -1034,7 +1034,7 @@ Click [here and back to the list](#4)
 
 - [The Future of Layer 2 ----Prague Edition](https://www.youtube.com/watch?v=htyJrK9VuCc&t=1144s)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 ## L4
  L4 Venture is building Web3(a decentralized web that removes middlemen and incentivizes users to contribute)
@@ -1055,7 +1055,7 @@ Click [here and back to the list](#4)
  
 - [Medium-L4 Blog](https://medium.com/l4-media)
 
-Click [here and back to the list](#4)
+Click [here and back to the list](#1)
 
 <h1 id="5">All About Layer 2</h1>
 
