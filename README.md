@@ -4,7 +4,7 @@
 
 ### [Introduction to Layer 2 solutions](#2) 
 
-### [All about Layer 2:General analysis aabout Layer 2 solutions](#5)
+### [All about Layer 2:General analysis about Layer 2 solutions](#5)
 
 ### [The Layer 2 projects](#3) 
 
