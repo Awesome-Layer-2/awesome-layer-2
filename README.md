@@ -4,30 +4,34 @@
 
 ### [Introduction to Layer 2 solutions](#2) 
 
-### [All about Layer 2:General analysis about Layer 2 solutions](#5)
+### [All about Layer 2:General analysis aabout Layer 2 solutions](#5)
 
 ### [The Layer 2 projects](#3) 
 
-|[State Channel](#11)||||
-|--------|--------|--------|--------|
+**[State Channel](#11)**
+
 |[Celer Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#celer-network)|[Connext](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#connext)|[Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#counterfactual)|[FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#funfair)|
+|--------|--------|--------|--------|
 |[Lighting Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)|[Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)|[Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Machionmy)|[Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Magmo)
 |[Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#parsec)|[Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#perun)|[Pisa](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#pisa)|[Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#raiden-network)|
 |[SpankChain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#spankchain)|[Sprites](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#sprites)|[Trinity](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#trinity)|
 
-|[Side Chain](#12)||||
-|--------|--------|--------|--------|
+**[Side Chain](#12)**
+
 |[Alacris](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alacris)|[Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)|[Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#loom-network)|[OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#omisego)|
+|--------|--------|--------|--------|
 |[Plasma](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#plasma)|[POA Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#poa-network)|[SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#skale)|
 
-|[Off Chain Computation](#13)||||
-|--------|--------|--------|--------|
-|[AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alphawallet)|[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)|STARK|TEEX|
-|[Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)|Truebit|
+**[Off Chain Computation](#13)**
 
-|[Research Institute](#14)||||
+|[AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alphawallet)|[Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)|STARK|TEEX|
 |--------|--------|--------|--------|
-|[Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)|[L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)|
+|[Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)|TrueBit|
+
+**[Research Institute](#14)**
+
+|[Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)|[L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)|||
+|--------|--------|--------|--------|
 
 ### [How to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
@@ -702,6 +706,23 @@ Trinity is a universal off-chain scaling solution, which aims to achieve real-ti
 <h1 id="12"> Side chains</h1>
 
 ## Alacris
+
+The largest value to create in the Blockchain market is in playing the role that Microsoft did in the Personal Computer Revolution.
+
+Alacris :Building the Layer 2 operation system.
+
+### Basic Information
+- [website](https://alacris.io/)
+- [Telegram](https://t.me/alacrisio)
+- [Medium](https://medium.com/alacris)
+- [Twitter](https://twitter.com/alacrisos)
+
+### Articles:
+- [Alacris:The beginning](https://medium.com/alacris/alacris-the-beginning-505eceb4fb75)
+- [Alacris:The blokchain Operating System](https://medium.com/alacris/alacris-the-blockchain-operating-system-a37fdf4fae8e)
+- [Scaling your dApps with Alacris.io](https://medium.com/alacris/scaling-your-dapps-with-alacris-io-e7ab53f5b864)
+
+Click [here and back to the list](#1)
 
 ## Livepeer
 
