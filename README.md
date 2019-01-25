@@ -44,7 +44,7 @@
 
   - [Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#loom-network)
   
-   - [MATIC Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#MATIC_Network)
+  - [MATIC Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#matic-network)
 
   - [OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#omisego)
 
