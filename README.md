@@ -22,8 +22,6 @@
 
   - [Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Magmo)
   
-  - [MATIC Network)(https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#MATIC_Network)
-
   - [Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#parsec)
 
   - [Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#perun)
@@ -45,6 +43,8 @@
   - [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)
 
   - [Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#loom-network)
+  
+   - [MATIC Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#MATIC_Network)
 
   - [OmiseGo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#omisego)
 
@@ -501,37 +501,6 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
-## MATIC Network
-Scaling Ethereum using Plasma and PoS based side chains 
-
-### Basic Information
-
-- [Website](https://matic.network/)
-
-- [GitHub](https://github.com/maticnetwork)
-
-- [Medium](https://medium.com/matic-network) Check marketing and project update here
-
-- [Whitepaper](https://whitepaper.matic.network/)
-
-- [Litepaper](https://matic.network/matic-litepaper.pdf)
-
-- [Dev Docs](https://docs.matic.network/)
-
-- [Twitter](https://twitter.com/maticnetwork)
-
-### Products
-
-- [Wallet](https://matic.network/wallet/)
-
-- [Dagger](https://matic.network/dagger/)Get realtime updates from Ethereum Blockchain using Dagger
-
-- [Zapier Intergration](https://matic.network/dagger/zapier/)Zapier is a web automation app and it gives you the power to integrate Dagger For Ethereum with hundreds of other apps to automate your work.
-
-
-### Others
-
-- [A conversatiomn with MATIC Nettwork team on Twitter, about how EVM-on-Plasma](https://twitter.com/sandeepnailwal/status/1088423454695718912)
 
 ## Magmo
 
@@ -893,6 +862,38 @@ Click [here and back to the list](#1)
 - [LOOM Network - Using the Blockchain to Revolutionize Online Gaming](https://www.youtube.com/watch?v=XjN1rioy-GM)A video comments on Loom Network has more than 2000 views on Youtube,will help to know about Loom Network.
 
 Click [here and back to the list](#1)
+
+## MATIC Network
+Scaling Ethereum using Plasma and PoS based side chains 
+
+### Basic Information
+
+- [Website](https://matic.network/)
+
+- [GitHub](https://github.com/maticnetwork)
+
+- [Medium](https://medium.com/matic-network) Check marketing and project update here
+
+- [Whitepaper](https://whitepaper.matic.network/)
+
+- [Litepaper](https://matic.network/matic-litepaper.pdf)
+
+- [Dev Docs](https://docs.matic.network/)
+
+- [Twitter](https://twitter.com/maticnetwork)
+
+### Products
+
+- [Wallet](https://matic.network/wallet/)
+
+- [Dagger](https://matic.network/dagger/)Get realtime updates from Ethereum Blockchain using Dagger
+
+- [Zapier Intergration](https://matic.network/dagger/zapier/)Zapier is a web automation app and it gives you the power to integrate Dagger For Ethereum with hundreds of other apps to automate your work.
+
+
+### Others
+
+- [A conversatiomn with MATIC Nettwork team on Twitter, about how EVM-on-Plasma](https://twitter.com/sandeepnailwal/status/1088423454695718912)
 
 ## OmiseGo
 
