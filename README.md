@@ -864,7 +864,7 @@ Click [here and back to the list](#1)
 Click [here and back to the list](#1)
 
 ## MATIC Network
-Scaling Ethereum using Plasma and PoS based side chains 
+Matic brings massive scale to Ethereum using an adapted version of Plasma and PoS based side chains. 
 
 ### Basic Information
 
@@ -872,7 +872,9 @@ Scaling Ethereum using Plasma and PoS based side chains
 
 - [GitHub](https://github.com/maticnetwork)
 
-- [Medium](https://medium.com/matic-network) Check marketing and project update here
+- [Medium](https://medium.com/matic-network)
+
+- [Twitter](https://twitter.com/maticnetwork)
 
 - [Whitepaper](https://whitepaper.matic.network/)
 
@@ -880,20 +882,29 @@ Scaling Ethereum using Plasma and PoS based side chains
 
 - [Dev Docs](https://docs.matic.network/)
 
-- [Twitter](https://twitter.com/maticnetwork)
+- [FAQ](https://docs.matic.network/faq/)
 
 ### Products
 
 - [Wallet](https://matic.network/wallet/)
 
-- [Dagger](https://matic.network/dagger/)Get realtime updates from Ethereum Blockchain using Dagger
+- [Dagger](https://matic.network/dagger/) Get realtime updates from Ethereum Blockchain using Dagger
 
-- [Zapier Intergration](https://matic.network/dagger/zapier/)Zapier is a web automation app and it gives you the power to integrate Dagger For Ethereum with hundreds of other apps to automate your work.
+- [Zapier Integration](https://matic.network/dagger/zapier/) Zapier is a web automation app and it gives you the power to integrate Dagger for Ethereum with hundreds of other apps to automate your work.
 
+### Articles
+
+- [What is Matic Network?](https://medium.com/matic-network/what-is-matic-network-466a2c493ae1)
+
+- [DEX on Matic Network with 0x](https://medium.com/matic-network/dex-on-matic-network-with-0x-7c1890590dab)
+
+- [How to get real-time updates from Ethereum in your favorite apps?](https://medium.com/matic-network/how-to-get-real-time-updates-for-ethereum-in-your-favorite-apps-439ccf8be231)
+
+- [Enabling Faster Plasma Exits](https://medium.com/matic-network/enabling-faster-plasma-exits-3ca5a936f215)
 
 ### Others
 
-- [A conversatiomn with MATIC Nettwork team on Twitter, about how EVM-on-Plasma](https://twitter.com/sandeepnailwal/status/1088423454695718912)
+- [A conversation with MATIC Network team on Twitter, regarding enabling EVM-on-Plasma](https://twitter.com/sandeepnailwal/status/1088423454695718912)
 
 ## OmiseGo
 
