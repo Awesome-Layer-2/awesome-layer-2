@@ -963,6 +963,23 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
+
+## Plasma Group 
+
+Dedicated to the creation of an open plasma implementation for the greater Ethereum community. 
+
+### Info
+
+- [Plasma Group Website](https://plasma.group/)
+
+- [Github](https://github.com/plasma-group)
+
+- [Twitter](https://twitter.com/plasma_group)
+
+- [Introducating Plasma Group](https://medium.com/plasma-group/deployplasma-dd1cf0b2ab55)
+
+Click [here and back to the list](#1)
+
 ## POA Network
 
 Click [here and back to the list](#1)
