@@ -201,7 +201,7 @@ Click [here and back to the list](#1)
 
 - [Website](https://connext.network/)
 
-- [Github] (https://github.com/ConnextProject)
+- [Github](https://github.com/ConnextProject)
 
 - [Discord](https://discordapp.com/invite/yKkzZZm)
 
