@@ -382,8 +382,6 @@ Click [here and back to the list](#1)
 
 - [Continued Discussion on why Lightning Network Cannot Scale ](https://medium.com/@jonaldfyookball/continued-discussion-on-why-lightning-network-cannot-scale-883c17b2ef5b)
 
-- [Introducing Fairlayer](https://medium.com/fairlayer/introducing-failsafe-network-ea47ab476fe6)
-
 - [Why Lightning and Raiden Networks Will Not Work](https://medium.com/fairlayer/why-lightning-and-raiden-networks-will-not-work-d1880e4bc294)
 
 - [Lightning Protocol & The Raiden Network: A Beginner’s Guide](https://blog.springrole.com/lightning-protocol-the-raiden-network-a-beginners-guide-c9d7bc702748)
