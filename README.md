@@ -388,13 +388,23 @@ Click [here and back to the list](#1)
 
 - [Lightning Protocol & The Raiden Network: A Beginner’s Guide](https://blog.springrole.com/lightning-protocol-the-raiden-network-a-beginners-guide-c9d7bc702748)
 
-- [Lightning Network enables Unicast Transactions in Bitcoin. Lightning is Bitcoin’s TCP/IP stack.]https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5)：About working principle of Lightning Network.
+- [Lightning Network enables Unicast Transactions in Bitcoin. Lightning is Bitcoin’s TCP/IP stack.]（https://medium.com/@melik_87377/lightning-network-enables-unicast-transactions-in-bitcoin-lightning-is-bitcoins-tcp-ip-stack-8ec1d42c14f5)：About working principle of Lightning Network.
 
 - [Sparky: A Lightning Network in Two Pages of Solidity](https://www.blunderingcode.com/a-lightning-network-in-two-pages-of-solidity/)
 
 - [Lighting Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e)
 
 - [The future of lightning - Elizabeth Stark - Honeybadger 2018](https://view.ly/v/9h3Kv2gS7DIu) :Text draft of a presentation by Elizabeth Stark. About Lighting Network's history and overview.
+
+#### Those below are technical explaination about Lightning Network
+
+- [Lightning Networks Part I:Revocable Transactions](https://rusty.ozlabs.org/?p=450)
+
+- [Lightning Networks Part II:Hzashed Timelock Contracts(HTLCs)](https://rusty.ozlabs.org/?p=462)
+
+- [Lightning Networks Part III:Channeling Contracts](https://rusty.ozlabs.org/?p=467)
+
+- [Lightning Networks Part IV:Summary](https://rusty.ozlabs.org/?p=477)
 
 
 ### Videos
