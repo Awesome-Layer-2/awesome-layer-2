@@ -972,6 +972,8 @@ Click [here and back to the list](#1)
 Click [here and back to the list](#1)
 
 
+- [Plasma-core](https://plasma-core.readthedocs.io/en/latest/index.html)
+
 ## Plasma Group 
 
 Dedicated to the creation of an open plasma implementation for the greater Ethereum community. 
