@@ -342,6 +342,10 @@ Click [here and back to the list](#1)
 
 - [Website](https://lightning.network/#intro)
 
+- [Website:Lightning Labs](https://lightning.engineering/)
+
+- [Website:Bitcoin Lightning](https://www.bitcoinlightning.com/)
+
 - [GitHub](https://github.com/lightningnetwork)
 
 - [Reddit](https://www.reddit.com/r/lightningnetwork/)
@@ -369,6 +373,10 @@ Click [here and back to the list](#1)
 - [SF Bitcoin Social Presentation Slides](https://lightning.network/lightning-network-presentation-sfbitcoinsocial-2015-05-26.pdf)
 
 - [Time and Bitcoin Presentation Slides](https://lightning.network/lightning-network-presentation-time-2015-07-06.pdf)
+
+- [Lightning Loop](https://blog.lightning.engineering/posts/2019/03/20/loop.html):Lightning Loop is a non-custodial service offered by Lightning Labs to bridge on-chain and off-chain Bitcoin using submarine swaps. Which means you can move your BTC out of the channel while still keep the channel open.[Github](https://github.com/lightninglabs/loop)
+
+- [Static Channel Backups(SCB)](https://github.com/lightningnetwork/lnd/blob/master/docs/recovery.md#recovering-funds-from-lnd-funds-are-safu):About funds recovery.
 
 ### Articles
 
