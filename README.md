@@ -14,7 +14,7 @@
 
   - [FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#funfair)
 
-  - [Lighting Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)
+  - [Lightning Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)
 
   - [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)
 
@@ -336,7 +336,7 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
-## Lighting Network
+## Lightning Network
 
 ### Basic Information
 
