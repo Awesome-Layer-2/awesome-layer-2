@@ -80,6 +80,8 @@
 
 ### [How to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
+- **Integration**
+  - [Abridge](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#abridge)
 
 <h1 id="2">INTRO</h1>
 
@@ -384,8 +386,6 @@ Click [here and back to the list](#1)
 
 - [Lightning Network is the Future of Bitcoin ](https://medium.com/breez-technology/the-future-of-bitcoin-3187aefe2746) 
 
-- [Understanding Lightning Network using an Abacus ](https://medium.com/breez-technology/understanding-lightning-network-using-an-abacus-daad8dc4cf4b)
-
 - [Mathematical Proof That the Lightning Network Cannot Be a Decentralized Bitcoin Scaling Solution ](https://medium.com/@jonaldfyookball/mathematical-proof-that-the-lightning-network-cannot-be-a-decentralized-bitcoin-scaling-solution-1b8147650800)
 
 - [Continued Discussion on why Lightning Network Cannot Scale ](https://medium.com/@jonaldfyookball/continued-discussion-on-why-lightning-network-cannot-scale-883c17b2ef5b)
@@ -401,6 +401,8 @@ Click [here and back to the list](#1)
 - [Lighting Network 2.0](https://blog.theabacus.io/lightning-network-2-0-b878b9bb356e)
 
 - [The future of lightning - Elizabeth Stark - Honeybadger 2018](https://view.ly/v/9h3Kv2gS7DIu) :Text draft of a presentation by Elizabeth Stark. About Lighting Network's history and overview.
+
+- [Lightning VS Raiden #3: myths about business models and accountability of watchtowers (also Celer & PISA)](https://medium.com/crypto-punks/lightning-vs-raiden-watchtowers-accountability-business-models-celer-pisa-833384f01ad0)
 
 #### Those below are technical explaination about Lightning Network
 
@@ -1392,4 +1394,6 @@ Click [here and back to the top](#1)
 
 Click [here and back to the top](#1)
 
-
+## Integration
+### Abridge
+- [Abridged Public Announcement](https://medium.com/abridged-io/abridged-launch-announcement-155b3eb9ef57):He said:"In short, we are bringing usability to Web 3." Aggregration of Layer 2s.
