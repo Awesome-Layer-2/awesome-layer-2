@@ -53,6 +53,8 @@
   - [POA Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#poa-network)
 
   - [SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#skale)
+  
+  - [LeapDAO](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#leapdao)
 
 - **Off Chain Computation**
 
@@ -73,6 +75,14 @@
   - [Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)
 
   - [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)
+
+- **Others**
+
+  - **Zero knowledge**
+  
+    - [Matter Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#matter-labs)
+  
+    - [Abridged](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#abridged)
 
 ### [Introduction to Layer 2 solutions](#2) 
 
@@ -1028,6 +1038,9 @@ Click [here and back to the list](#1)
 
 - [SFBW18: Scalability: Decentralized or High Performance?](https://www.youtube.com/watch?v=VOO7oYjnA7g)
 
+### LeapDAO
+
+- [Website](https://leapdao.org/)
 
 Click [here and back to the list](#1)
 
@@ -1395,5 +1408,9 @@ Click [here and back to the top](#1)
 Click [here and back to the top](#1)
 
 ## Integration
-### Abridge
+### Abridged
 - [Abridged Public Announcement](https://medium.com/abridged-io/abridged-launch-announcement-155b3eb9ef57):He said:"In short, we are bringing usability to Web 3." Aggregration of Layer 2s.
+
+## Zero-knowledge
+### Matter Labs
+- [Website](https://matter-labs.io)
