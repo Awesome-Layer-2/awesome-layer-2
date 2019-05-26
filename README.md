@@ -28,7 +28,7 @@
 
   - [Pisa](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#pisa)
 
-  - [Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#raiden-network)|
+  - [Raiden Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#raiden-network)
 
   - [SpankChain](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#spankchain)
 
