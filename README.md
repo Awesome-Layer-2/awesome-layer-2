@@ -81,6 +81,8 @@
   - **Zero knowledge**
   
     - [Matter Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#matter-labs)
+   
+  - **integrations**
   
     - [Abridged](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#abridged)
 
