@@ -155,6 +155,8 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 
 <h1 id="11"> State Channels</h1>
 
+- [Celer & L4 - Making Sense of State Channels Part 1: What Are They Good For?](https://medium.com/celer-network/statechannel-c6fad40780fa)
+
 ## Celer Network
 
 ### Basic Information
@@ -184,7 +186,7 @@ All the layer 2 projects is here, click the project and you will jump to the sec
 ### Articles
 - [Celer Network：Bring Internet Scale to Every Blockchain](https://medium.com/celer-network/celer-network-bring-internet-scale-to-every-blockchain-b8f3c9a2d270)
 
-- [Celer Network MVP: The Most Advanced State Channel Full-Stack Solution](https://medium.com/celer-network/celer-network-mvp-the-most-advanced-state-channel-full-stack-solution-21df46234e42)
+- [Celer Network MVP: The Most Advanced Full-Stack Solution](https://medium.com/celer-network/celer-network-mvp-the-most-advanced-state-channel-full-stack-solution-21df46234e42)
 
 - [Celer Network Off-Chain Crypto Economics](https://medium.com/celer-network/celer-network-off-chain-crypto-economics-13999b11e635)
 
@@ -583,6 +585,8 @@ Click [here and back to the list](#1)
 - [Facebook](https://www.facebook.com/perun.network/)
 
 ### Product/Document
+
+- [Perun paper on multi-party virtual channels](https://eprint.iacr.org/2019/571)
 
 - [Generic State Channel Networks](https://eprint.iacr.org/2018/320.pdf)
 
