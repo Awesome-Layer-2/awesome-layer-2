@@ -13,6 +13,8 @@
   - [Counterfactual](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#counterfactual)
 
   - [FunFair](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#funfair)
+  
+  - [Geoprotocol](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#geoprotocol)
 
   - [Lightning Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)
 
@@ -21,8 +23,6 @@
   - [Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Machionmy)
 
   - [Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Magmo)
-  
-  - [Parsec](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#parsec)
 
   - [Perun](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#perun)
 
@@ -37,8 +37,6 @@
   - [Trinity](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#trinity)
 
 - **Side Chain**
-
-  - [Alacris](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alacris)
 
   - [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)
 
@@ -59,16 +57,16 @@
 - **Off Chain Computation**
 
   - [AlphaWallet](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alphawallet)
+  
+  - [ARPA](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#arpa)
 
-  - [Oraclize](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Oraclize)
+  - [Provable](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#provable)
 
-  - STARK
+  - [TEEX](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#teex)
 
-  - TEEX
+  - [Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#transmute)
 
-  - [Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Transmute)
-
-  - TrueBit
+  - [TrueBit](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#truebit)
 
 - **Research Institute**
 
@@ -77,14 +75,20 @@
   - [L4](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#l4)
 
 - **Others**
-
-  - **Zero knowledge**
-  
-    - [Matter Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#matter-labs)
    
   - **integrations**
   
     - [Abridged](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#abridged)
+    
+    - [Alacris](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#alacris)
+    
+    - [ONDER](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#onder)
+    
+  - **Zero knowledge**
+  
+    - [Matter Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#matter-labs)
+    
+    - [StarkWare](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/starkware#)
 
 ### [Introduction to Layer 2 solutions](#2) 
 
@@ -92,8 +96,6 @@
 
 ### [How to contribute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/contributing.md)
 
-- **Integration**
-  - [Abridge](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#abridge)
 
 <h1 id="2">INTRO</h1>
 
@@ -352,6 +354,12 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
+## Geoprotocol
+
+- [Webisite](https://geoprotocol.io/)
+
+Click [here and back to the list](#1)
+
 ## Lightning Network
 
 ### Basic Information
@@ -533,7 +541,6 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
-
 ## Magmo
 
 ### Basic Information
@@ -565,10 +572,6 @@ Click [here and back to the list](#1)
 ### VideoS
 
 - [Force-Move Games - a simple framework for n-party state channel interactions](https://www.youtube.com/watch?v=CeiT4LBurh8&t=141s)
-
-Click [here and back to the list](#1)
-
-## Parsec
 
 Click [here and back to the list](#1)
 
@@ -783,25 +786,6 @@ Trinity is a universal off-chain scaling solution, which aims to achieve real-ti
 
 <h1 id="12"> Side chains</h1>
 
-## Alacris
-
-The largest value to create in the Blockchain market is in playing the role that Microsoft did in the Personal Computer Revolution.
-
-Alacris :Building the Layer 2 operation system.
-
-### Basic Information
-- [website](https://alacris.io/)
-- [Telegram](https://t.me/alacrisio)
-- [Medium](https://medium.com/alacris)
-- [Twitter](https://twitter.com/alacrisos)
-
-### Articles:
-- [Alacris:The beginning](https://medium.com/alacris/alacris-the-beginning-505eceb4fb75)
-- [Alacris:The blokchain Operating System](https://medium.com/alacris/alacris-the-blockchain-operating-system-a37fdf4fae8e)
-- [Scaling your dApps with Alacris.io](https://medium.com/alacris/scaling-your-dapps-with-alacris-io-e7ab53f5b864)
-
-Click [here and back to the list](#1)
-
 ## Livepeer
 
 **intro:** The Livepeer project is building a platform for video transcoding and live video streaming for the decentralized web. It's Beta version is ready.
@@ -992,11 +976,9 @@ Matic brings massive scale to Ethereum using an adapted version of Plasma and Po
 
 Click [here and back to the list](#1)
 
-
 ## Plasma
 
 Click [here and back to the list](#1)
-
 
 - [Plasma-core](https://plasma-core.readthedocs.io/en/latest/index.html)
 
@@ -1046,11 +1028,21 @@ Click [here and back to the list](#1)
 
 ### LeapDAO
 
+**Intro**:From Parsec Labs to LeapDAO, now this team are working on building Plasma on Ethereum.
+
 - [Website](https://leapdao.org/)
 
 Click [here and back to the list](#1)
 
 <h1 id="13">Off - chain computation</h1>
+
+## ARPA
+
+**Intro**:A Privacy-Preserving Computation Network
+
+- [Website](https://arpachain.io/)
+
+Click [here and back to the list](#1)
 
 ## AlphaWallet
 
@@ -1105,8 +1097,11 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
+## Provable
 
-## Oraclize
+**Intro**:Used to be Oraclized, now Provable.Slogon:The Provable blockchain oracle for modern DApps
+
+- [Website](https://provable.xyz/)
 
 ### Video
 
@@ -1114,6 +1109,12 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
+## TEEX
+**Intro**:TEEX is a secure distributed computing platform which provides a Layer-2 solution based on blockchain. It builds a complete incentive model of computing resource sharing, which provides a decentralized, usable and flexible computing market for users, workers and service providers.
+
+- [Website](https://teex.io/)
+
+Click [here and back to the list](#1)
 
 ## Transmute
 
@@ -1161,7 +1162,14 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
+## TrueBit
+
+- [Website](https://truebit.io/)
+
+Click [here and back to the list](#1)
+
 <h1 id="14">Research Institute</h1>
+
 ## Finality Labs
 
 **Intro**: Finality Labs is a community of researchers, devs, modders, hackers, and gamers uniting to experiment with and create new applications of cryptographic systems.
@@ -1175,7 +1183,6 @@ Click [here and back to the list](#1)
 
 - [Twitter](https://twitter.com/finalitylabs)
 
-
 ### Product/document
 
 - [Set-Payment paper](https://finalitylabs.io/static/media/SetPaymentChannels.8a29d449.pdf) 
@@ -1186,7 +1193,6 @@ Click [here and back to the list](#1)
 ### Articles
 
 - [Finality in Blockchain Consensus](https://medium.com/mechanism-labs/finality-in-blockchain-consensus-d1f83c120a9a)
-
 
 ### Videos
 
@@ -1413,10 +1419,47 @@ Click [here and back to the top](#1)
 
 Click [here and back to the top](#1)
 
-## Integration
+# Integration
 ### Abridged
+
 - [Abridged Public Announcement](https://medium.com/abridged-io/abridged-launch-announcement-155b3eb9ef57):He said:"In short, we are bringing usability to Web 3." Aggregration of Layer 2s.
 
-## Zero-knowledge
-### Matter Labs
+Click [here and back to the list](#1)
+
+## Alacris
+
+The largest value to create in the Blockchain market is in playing the role that Microsoft did in the Personal Computer Revolution.
+
+Alacris :Building the Layer 2 operation system.
+
+### Basic Information
+- [website](https://alacris.io/)
+- [Telegram](https://t.me/alacrisio)
+- [Medium](https://medium.com/alacris)
+- [Twitter](https://twitter.com/alacrisos)
+
+### Articles:
+- [Alacris:The beginning](https://medium.com/alacris/alacris-the-beginning-505eceb4fb75)
+- [Alacris:The blokchain Operating System](https://medium.com/alacris/alacris-the-blockchain-operating-system-a37fdf4fae8e)
+- [Scaling your dApps with Alacris.io](https://medium.com/alacris/scaling-your-dapps-with-alacris-io-e7ab53f5b864)
+
+Click [here and back to the list](#1)
+
+## ONDER
+
+- [Website](https://onder.tech)
+
+# Zero-knowledge
+Zero-knowledge is not layer 2 solutions but it still bring scalibility to blockchain.
+
+## Matter Labs
+
 - [Website](https://matter-labs.io)
+
+Click [here and back to the list](#1)
+
+## StarkWare
+
+- [StarkWare](https://starkware.co/)
+
+Click [here and back to the list](#1)
