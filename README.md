@@ -664,8 +664,6 @@ Click [here and back to the list](#1)
 
 - [Etherscan](https://etherscan.io/token/0x255aa6df07540cb5d3d297f0d0d4d84cb52bc8e6)
 
-- [Cofounder— Lefteris Karapetsas Twitter](https://twitter.com/LefterisJP) 
-
 ### Product/Document
 
 - [Raiden Network Docs](http://raiden-network.readthedocs.io/en/stable/)
