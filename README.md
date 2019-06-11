@@ -38,6 +38,8 @@
 
 - **Side Chain**
 
+  - [BIFROST](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#bifrost)
+
   - [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)
 
   - [Loom Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#loom-network)
@@ -53,6 +55,8 @@
   - [SKALE](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#skale)
   
   - [LeapDAO](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#leapdao)
+  
+  - [Tokamak Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#tokamak-network)
 
 - **Off Chain Computation**
 
@@ -247,7 +251,6 @@ Click [here and back to the list](#1)
 
 - [The case for Ethereum scalability](https://medium.com/connext/the-case-for-ethereum-scalability-d2a8035f880f)
 
-
 ### Videos
 
 - [State channels are coming](https://www.youtube.com/watch?v=SRUQBYRiZ8s)
@@ -436,7 +439,6 @@ Click [here and back to the list](#1)
 
 - [Lightning Networks Part IV:Summary](https://rusty.ozlabs.org/?p=477)
 
-
 ### Videos
 
 - [Explain lighting Network](https://www.youtube.com/watch?v=rrr_zPmEiME)
@@ -598,7 +600,6 @@ Click [here and back to the list](#1)
 - [Perun Features](https://drive.google.com/file/d/1phBzFXt2QDEemh0JIOAI80nibe3JTRu5/view)
 
 - [FairSwap: How to fairly exchange digital goods](https://eprint.iacr.org/2018/740.pdf) 
-
 
 ### Articles
 
@@ -782,7 +783,14 @@ Trinity is a universal off-chain scaling solution, which aims to achieve real-ti
 - [TRINITY NETWORK EXCLUSIVE: Founder David Li Str8 talks about recent events with BCB. Neo & Trinity!](https://www.youtube.com/watch?v=t1qhME3Myus)
 - [Trinity: Neo's offchain scaling solution. Turning 1000tps into millions: Neo's Raiden is here!](https://www.youtube.com/watch?v=OwCvszgstN0)
 
+Click [here and back to the list](#1)
+
 <h1 id="12"> Side chains</h1>
+## BIFROST
+
+- [Website](https://thebifrost.io/)
+
+Click [here and back to the list](#1)
 
 ## Livepeer
 
@@ -1024,11 +1032,17 @@ Click [here and back to the list](#1)
 
 - [SFBW18: Scalability: Decentralized or High Performance?](https://www.youtube.com/watch?v=VOO7oYjnA7g)
 
-### LeapDAO
+## LeapDAO
 
 **Intro**:From Parsec Labs to LeapDAO, now this team are working on building Plasma on Ethereum.
 
 - [Website](https://leapdao.org/)
+
+Click [here and back to the list](#1)
+
+## Tokamak Network
+
+- [Website](https://tokamak.network/)
 
 Click [here and back to the list](#1)
 
