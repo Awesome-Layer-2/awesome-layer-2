@@ -847,43 +847,140 @@ Click [here and back to the list](#1)
 
 - [Telegram](https://t.me/loomnetwork)
 
+- [Developer Telegram](https://t.me/LoomNetworkDev)
+
+- [Discord](https://discord.gg/DDnfXgz)
+
 - [Reddit](https://www.reddit.com/r/loomnetwork/)
 
 - [Twitter](https://twitter.com/loomnetwork)
 
 - [FAQ](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
 
-### Product/document
+- [ZombieBattleground Kickstarter](https://www.kickstarter.com/projects/328862817/zombie-battleground-the-new-generation-of-ccg-tcg/updates)
+
+### Tools and Docs
 
 - [Loom SDK](https://loomx.io/developers/) 
 
-- [CryptoZombies, Ethereum’s most popular DApp coding tutorial](https://cryptozombies.io/)
-
-- [Delegatecall](https://delegatecall.com/)
-
 - [NO whitepaper because Loom Network is too busy shipping code](https://medium.com/loom-network/loom-network-wheres-your-whitepaper-5c5c9075af72)
+
+- [New PlasmaChain Explorer](https://plasma-blockexplorer.dappchains.com/)
+
+- [Dappchain Explorer](https://blockchain.delegatecall.com/#/blocks)
+
+- [DappRadar Metrics](https://dappradar.com/rankings/protocol/loom)
+
+- [Loom Staked - Twitter Bot](https://twitter.com/loomstaked)
+
+### Built on Loom
+
+- [Relentless, previously Zombie Battleground, by LOOM](https://loom.games/)
+
+- [Delegatecall, by LOOM](https://delegatecall.com/)
+
+- [CryptoZombies, Ethereum’s most popular DApp coding tutorial, by LOOM](https://cryptozombies.io/)
+
+- [EthFiddle by LOOM](https://ethfiddle.com/)
+
+- [SoRare](https://sorare.com/)
+
+- [Battle Racers](https://battleracers.io/)
+
+- [Axie Infinity](https://axieinfinity.com/)
+
+- [CryptoWars](https://cryptowars.jp/)
+
+- [Cryptoraves](https://cryptoraves.space/#/)
+
+- [NeonDistrict](https://neondistrict.io/)
+
+- [Hey Network](https://hey.network)
+
+- [Plasma Bears](https://plasmabears.com/)
+
+- [ShipChain](https://shipchain.io/)
+
+- [Coins and Steel](https://coinsandsteel.com/)
+
+### Developer Tutorials
+
+- [Truffle DappChain Example](https://github.com/loomnetwork/truffle-dappchain-example/blob/master/README.md)
+
+- [Solving Scalability of Ethereum through Loom Sidechains (Tutorial) | Hackernoon](https://hackernoon.com/solving-scalability-of-ethereum-through-loom-sidechains-tutorial-2837307d454)
+
+- [Sign Loom Plasmachain Transactions Using an Ethereum Wallet (Video) | What The Func?](https://www.youtube.com/watch?v=JLaoQ8kyylc)
+
+- [FAST, GASLESS, ERC20 Payments With Loom Plasmachain!!! (Video) | What The Func?](https://www.youtube.com/watch?v=c04C95OEi-o)
+
+- [Transfer Digital Assets to Loom Dappchains Using Transfer Gateways | What The Func?](https://www.youtube.com/watch?v=e1dJTfDnPPE)
+
+- [Create Smart Contracts Using Go And The Loom SDK | What The Func?](https://www.youtube.com/watch?v=R2xJwjuvkME)
 
 ### Articles
 
-- [Everything You Need to Know About Loom Network, All in One Place (Updated Regularly)](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
+- [Everything You Need to Know About Loom Network, All in One Place (Updated Regularly) | Loom Blog](https://medium.com/loom-network/everything-you-need-to-know-about-loom-network-all-in-one-place-updated-regularly-64742bd839fe)
 
-- [Loom SDK Projects: Axie Infinity — Collect, Breed, and Battle Fantasy Pets on the Blockchain!](https://medium.com/loom-network/loom-sdk-projects-axie-infinity-collect-breed-and-battle-fantasy-pets-on-the-blockchain-22e6fd11b410)
+- [Loom SDK Projects: Axie Infinity — Collect, Breed, and Battle Fantasy Pets on the Blockchain! | Loom Blog](https://medium.com/loom-network/loom-sdk-projects-axie-infinity-collect-breed-and-battle-fantasy-pets-on-the-blockchain-22e6fd11b410)
 
-- [What is Loom Network (LOOM)? ](https://coinswitch.co/info/loom-network/what-is-loom-network)
+- [What is Loom Network (LOOM)? | CoinSwitch](https://coinswitch.co/info/loom-network/what-is-loom-network)
+
+- [Loom Network enables huge games like World of Warcraft to run on blockchain | Venture Beat](https://venturebeat.com/2018/03/15/loom-network-enables-huge-games-like-world-of-warcraft-to-run-on-blockchain/)
+
+- [Scaling Shout-out: Loom Network | ConsenSys](https://media.consensys.net/scaling-shout-out-loom-network-d587168b15e3)
+
+- [Loom Network: Plasma Cash for ERC721 Tokens | EthResearch](https://ethresear.ch/t/loom-network-plasma-cash-for-erc721-tokens/2385)
+
+- [Loom Network Guide | Blockonomi](https://blockonomi.com/loom-network-guide/)
+
+- [Ethereum’s First Production Scaling Project Is Here – But With a Catch](https://www.coindesk.com/ethereums-first-production-scaling-project-catch)
+
+- [Deep Dive with Matt, CEO of Loom Network (AMA)](https://www.tokendaily.co/p/deep-dive-with-matt-ceo-of-loom-network-built-cryptozombies)
+
+- [Loom Network Investment Thesis | Chorus One Research](https://blog.chorus.one/loom-network-investment-thesis/)
+
+- [PlasmaChain Staking is Officially Live — How to Stake Your LOOM and Help Secure PlasmaChain | Loom Blog](https://medium.com/loom-network/loom-plasmachain-staking-is-officially-live-how-to-stake-your-loom-and-help-secure-plasmachain-e321dc462674)
+
+- [Loom Delegation Tutorial](https://medium.com/stakecapital/loom-delegation-tutorial-b5d049c136ff)
+
+- [Loom Network Review | Binance Research](https://info.binance.com/en/research/LOOM-2018-11-8.html)
+
+- [What Is Loom Network?  Introduction to LOOM Token | CryptoBriefing](https://cryptobriefing.com/what-is-loom-network-introduction-loom-token/)
+
+- [What is Loom Network? | Coinsutra](https://coinsutra.com/what-is-loom-network/)
 
 ### Videos
 
-- [Loom Network AMA w/James Duffy](https://www.youtube.com/watch?v=8Evsx9cHvwA)
+- [Plasma Cash: Towards improved Constructions Loom Network | Georgios Konstantopoulos @ ETHDenver](https://www.youtube.com/watch?v=lSZp9zKh418)
 
-- [Loom Network (LOOM) - Crypto Fundamental Analysis ](https://www.youtube.com/watch?v=RstsGJREaVs)
+- [The Loom Zoom (Scaling Ethereum Using Layer 2 Solutions) | 
+ConsenSysMedia](https://www.youtube.com/watch?v=JnkahO3S5fc)
 
-- [WILL LOOM (LOOM) 100X?? IS IT WORTH INVESTING?](https://www.youtube.com/watch?v=rHVugUFz0Ys)
+- [Loom Network AMA w/ James Duffy | Ian Balina](https://www.youtube.com/watch?v=8Evsx9cHvwA)
 
-- [What is Loom Crypto? - DAppChains for Gaming?](https://www.youtube.com/watch?v=wUd2iS1BkAs)
+- [Loom Network (LOOM) - Crypto Fundamental Analysis | CoolCriSyS](https://www.youtube.com/watch?v=RstsGJREaVs)
 
-- [Matthew Campbell on Bringing Etheruem DApps to Twitter Scale with Loom Netowrk](https://www.youtube.com/watch?v=sb2d2jJ7keI) A talk with CEO of Loom Network about what's Loom Network doing
+- [WILL LOOM (LOOM) 100X?? IS IT WORTH INVESTING? | Crypto Busy](https://www.youtube.com/watch?v=rHVugUFz0Ys)
 
-- [LOOM Network - Using the Blockchain to Revolutionize Online Gaming](https://www.youtube.com/watch?v=XjN1rioy-GM)A video comments on Loom Network has more than 2000 views on Youtube,will help to know about Loom Network.
+- [What is Loom Crypto? - DAppChains for Gaming? | 
+Decentralized TV](https://www.youtube.com/watch?v=wUd2iS1BkAs)
+
+- [Matthew Campbell on Bringing Etheruem DApps to Twitter Scale with Loom Netowrk | PressureCast](https://www.youtube.com/watch?v=sb2d2jJ7keI)
+
+- [LOOM Network - Using the Blockchain to Revolutionize Online Gaming | 
+Crypto Simplified](https://www.youtube.com/watch?v=XjN1rioy-GM)
+
+- [Staking with Loom on PlasmaChain | Blockchain Gaming World](https://www.youtube.com/watch?v=A7UNWOo0bs8)
+
+- [Loom Update | BlockchainBrad](https://www.youtube.com/watch?v=0oLke5xym3c)
+
+- [Loom Network - ETH Scaling Solution | BlockchainBrad](https://www.youtube.com/watch?v=sRTAszI_eEM)
+
+- [Loom Network & CryptoZombies - The Future of Online Gaming | Explordinaire](https://www.youtube.com/watch?v=GEujY1LCkhQ)
+
+### Podcasts
+
+- [101 Series: Loom Network | CryptoBasic](https://www.cryptobasicpodcast.com/home/loom)
 
 Click [here and back to the list](#1)
 
