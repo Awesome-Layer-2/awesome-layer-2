@@ -71,7 +71,9 @@
   - [Transmute](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#transmute)
 
   - [TrueBit](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#truebit)
-
+  
+  - [Accord Project](https://github.com/accordproject)
+  
 - **Research Institute**
 
   - [Finality Labs](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#finality-labs)
