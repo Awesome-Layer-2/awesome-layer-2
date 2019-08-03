@@ -18,8 +18,6 @@
 
   - [Lightning Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#lighting-network)
 
-  - [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)
-
   - [Machionmy](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Machionmy)
 
   - [Magmo](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#Magmo)
@@ -39,6 +37,8 @@
 - **Side Chain**
 
   - [BIFROST](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#bifrost)
+  
+  - [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)
 
   - [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)
 
@@ -459,64 +459,6 @@ Click [here and back to the list](#1)
 
 Click [here and back to the list](#1)
 
-## Liquidity Network
-
-### Basic Information
-
-- [Website](https://liquidity.network/)
-
-- [GitHub](https://github.com/liquidity-network)
-
-- [Medium](https://medium.com/@liquidity.network)
-
-- [Youtube](https://www.youtube.com/channel/UCun8UadDUB5-lBVUli_R6GA/videos)
-
-- [Telegram](https://t.me/liquiditynetwork)
-
-- [Twitter](https://twitter.com/liquiditynet)
-
-- [Reddit](https://www.reddit.com/r/liquiditynetwork/)
-
-- [Founder—Arthur Gervai Twitter](https://twitter.com/HatforceSec)
-
-### Product/Document
-
-- [White Paper](https://liquidity.network/whitepaper_Liquidity_Network.pdf)
-
-- [Apple Wallet Dowland](https://itunes.apple.com/ch/app/liquidity-network-wallet/id1395924630)
-
-- [Android Wallet Dowland](https://play.google.com/store/apps/details?id=com.liquiditynetwork.wallet&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
-
-- [REVIVE Paper](https://eprint.iacr.org/2017/823.pdf)
-
-- [NOCUST Paper](https://liquidity.network/NOCUST_Liquidity_Network_Paper.pdf):NOCUST is a specification for secure N-party payment hubs introduced by Liquidity Network
-
-### Articles
-
-- [Noucst 101](https://medium.com/@liquidity.network/nocust-101-2acfbc0be47b)
-
-- [Liquidity Network Token Model](https://medium.com/liquidity-network/liquidity-network-token-model-d22861ab9faa)
-
-- [Liquidity Network Mobile App on Mainnet](https://medium.com/liquidity-network/liquidity-network-mobile-app-on-mainnet-f95bd87ffec9)
-
-### Videos
-
-- [Liquidity Network Interview 1](https://www.youtube.com/watch?v=BDX9VWBFySE) 
-
-- [Liquidity Network Interview 2](https://www.youtube.com/watch?v=vZ3vj5HU3Ec)
-
-- [What is Liquidity Network](https://www.youtube.com/watch?v=pYXP-X-6yxI)
-
-- [How Liquidity Wallet Work](https://www.youtube.com/watch?v=43DFoNiE5mQ)
-
-- [A speech on Zurich ——Non-Custodial Financial Intermediaries](https://www.youtube.com/watch?v=-s4_frwlLj0)
-
-- [Liquidity.Network and REVIVE](https://www.youtube.com/watch?v=emZTtmiR-AY)
-
-- [Wallet Demo](https://www.youtube.com/watch?v=jM9VWRBbqtU)
-
-Click [here and back to the list](#1)
-
 ## Machionmy
 
 ### Basic Information
@@ -791,6 +733,62 @@ Click [here and back to the list](#1)
 ## BIFROST
 
 - [Website](https://thebifrost.io/)
+
+Click [here and back to the list](#1)
+
+## Liquidity Network
+
+**intro:** Liquidity Network is a research-driven team developing NOCUST, a non-custodfial side-chain (or commit-chain) with strong security assumptions. NOCUST enables scalable transaction throughput and allows to build layer 2 decentralized exchange.
+
+### Basic Information
+
+- [Website](https://liquidity.network/)
+
+- [GitHub](https://github.com/liquidity-network)
+
+- [Blog](https://blog.liquidity.network)
+
+- [Youtube](https://www.youtube.com/channel/UCun8UadDUB5-lBVUli_R6GA/videos)
+
+- [Telegram](https://t.me/liquiditynetwork)
+
+- [Twitter](https://twitter.com/liquiditynet)
+
+- [Reddit](https://www.reddit.com/r/liquiditynetwork/)
+
+- [Founder—Arthur Gervai Twitter](https://twitter.com/HatforceSec)
+
+### Product/Document
+
+- [White Paper](https://liquidity.network/whitepaper_Liquidity_Network.pdf)
+
+- [Apple Wallet Dowland](https://itunes.apple.com/ch/app/liquidity-network-wallet/id1395924630)
+
+- [Android Wallet Dowland](https://play.google.com/store/apps/details?id=com.liquiditynetwork.wallet&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
+
+- [REVIVE Paper](https://eprint.iacr.org/2017/823.pdf)
+
+- [NOCUST Paper](https://liquidity.network/NOCUST_Liquidity_Network_Paper.pdf):NOCUST is a specification for secure N-party payment hubs introduced by Liquidity Network
+
+### Articles
+
+- [Noucst 101](https://medium.com/@liquidity.network/nocust-101-2acfbc0be47b)
+
+- [Liquidity Network Token Model](https://medium.com/liquidity-network/liquidity-network-token-model-d22861ab9faa)
+
+- [Liquidity Network Mobile App on Mainnet](https://medium.com/liquidity-network/liquidity-network-mobile-app-on-mainnet-f95bd87ffec9)
+
+### Videos
+
+- [Liquidity Network Interview](https://www.youtube.com/watch?v=vZ3vj5HU3Ec)
+
+- [What is Liquidity Network](https://www.youtube.com/watch?v=pYXP-X-6yxI)
+
+- [How Liquidity Wallet Work](https://www.youtube.com/watch?v=43DFoNiE5mQ)
+
+- [A speech on Zurich ——Non-Custodial Financial Intermediaries](https://www.youtube.com/watch?v=-s4_frwlLj0)
+
+- [Liquidity.Network and REVIVE](https://www.youtube.com/watch?v=emZTtmiR-AY)
 
 Click [here and back to the list](#1)
 
