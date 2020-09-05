@@ -128,13 +128,13 @@ Now there are three scalability technologies are on their way:
 
 2. By using sharding technology, each shard process it's own transaction. 
 
-3. **Layer 2 solutions, which will move most of the work off chian. These will be the main topic of this repo.**
+3. **Layer 2 solutions, which will move most of the work off chain. These will be the main topic of this repo.**
 
 For the first solutions, by optimizing the blockchain protocols, then only computer with better processing power can act as validator. For those home - use computers, they even can't download transaction if the throughput reach 5000 transactions per second. And storage comes to be a problem afterward.
 
-As for Sharding, it's not mature yet. There are different issues concerning 4 level of sharding: from the computation level, network level, storage level and consensus level. These issues are also cross shard problem like [train and hotel problem](https://github.com/ethereum/wiki/wiki/Sharding-FAQs#what-is-the-train-and-hotel-problem), those problems are not solved yet.
+As for Sharding, it's not mature yet. There are different issues concerning 4 level of sharding: from the computation level, network level, storage level and consensus level. These issues are also cross shard problem like [train and hotel problem](https://eth.wiki/sharding/Sharding-FAQs#what-is-the-train-and-hotel-problem), those problems are not solved yet.
 
-Off chain scaling solutions are mature technologies for scaling blockchain.It was first introduced by Lighting Network in 2016. From our perspective, **public blockchain is so far the most efficient way to reach global consensus, but it is also the slowest database as well.** Thus we should let blockchain do what they should do, i.e. ensure security and decentralization. Other features like scalability, privacy and so on could be done through off chain scaling solutions, to fit the demand of different industries and applications.
+Off chain scaling solutions are mature technologies for scaling blockchain. It was first introduced by Lighting Network in 2016. From our perspective, **public blockchain is so far the most efficient way to reach global consensus, but it is also the slowest database as well.** Thus we should let blockchain do what they should do, i.e. ensure security and decentralization. Other features like scalability, privacy and so on could be done through off chain scaling solutions, to fit the demand of different industries and applications.
 
 Here are two main considerations behind off chain scaling solutions: 
 
