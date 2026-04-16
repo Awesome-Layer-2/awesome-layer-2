@@ -117,6 +117,7 @@ Many people are working on those projects, most of them do not have any ICO, the
 
 
 ## Introduction to Layer 2 solutions
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain. Old computers earn more than new ones.
 
 Blockchain(here "blockchain" refers to permissionless blockchain or public blockchain) technology is facing a trilemma, i.e. from decentralization, security and scalability, Only two of the three features could be obtained in a single blockchain. **At the heart of the scaling problem is a tradeoff between "large user-base " and "large set of validators".**
 
