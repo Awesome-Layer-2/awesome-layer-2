@@ -38,6 +38,8 @@
 
   - [BIFROST](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#bifrost)
   
+  - [OPCAT Layer](https://opcatlabs.io/) - Merge-mined Bitcoin L2 with UTXO-based smart contracts (sCrypt) and BTC as gas
+  
   - [Liquidity Network](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#liquidity-network)
 
   - [Livepeer](https://github.com/Awesome-Layer-2/Awesome-Layer-2/blob/master/README.md#livepeer)
