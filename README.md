@@ -881,7 +881,7 @@ Click [here and back to the list](#1)
 
 - [CryptoZombies, Ethereum’s most popular DApp coding tutorial, by LOOM](https://cryptozombies.io/)
 
-- [EthFiddle by LOOM](https://ethfiddle.com/)
+- [Coddy Solidity Playground](https://coddy.tech/playground/solidity)
 
 - [SoRare](https://sorare.com/)
 
